@@ -1,0 +1,57 @@
+Name : Jason Bullough
+Email : bootlegger@manx.net
+Nickname/Alias : bootlegger
+
+Tested on real hardware with visoly xtreme cartridge.
+When using an emaultor, use Visualboy 1.7 or greater.
+
+This is a logic puzzle game for the GBA which I have converted from a game I wrote on the 
+Atari ST from some 10 years ago.
+The idea behind the game is to create concentric loops using the random
+pieces given.  The pieces are right angles top left/top right/bottom left/bottom right
+and horizontal and vertical pieces.  A further random piece that can appear is a star :
+this piece can be used to remove any item you have placed on the gameboard.  
+You can not however remove a map screen block.  If you do not wish to utilise a star piece
+simply move the cursor over a map board piece or a blank area and use the item.
+Each of the 25 levels gets progressively more difficult as the maps get more complex.
+The maps themselves can not be used as part of the loop so you must work around them.
+Each item you have has a fifteen second time limit to be placed - this is identified by 
+the green bar disappearing under the ITEM TIME text at the base of the screen.  If this 
+bar disappears completely, you will lose one of your 3 lives
+Each level also has a time limit to complete of 2 minutes - this is also identified by
+a green bar disappearring under the LEVEL TIME test at the base of the screen.  If this 
+bar disappears completely, you will lost one of your 3 lives and the whole will restart so
+you will have to start the level again.
+Some levels you may get a bug - this is an annoying character who can come in from either
+side of the screen and drop a block on any item you have previously placed.  This block 
+can not be removed with the star item so make sure it doesn't block your concentric loop!
+You can shoot the bug down with a missile and score 50 points - use Left/Right Shoulder
+buttons to fire a missile
+To complete a level you have to score the target score required for the level.  At the base
+of the screen you will see your current score.  The target score is given on the level 
+description at the interval.  The score is based on the size of the loops created.  
+For each piece in the loop adds 10 to the multiplier and this is multiplied by the number of
+pieces in the loop, so for example, a four piece puzzle would create a multiplier of 40 which
+would be multiplied for 4 for the amount of pieces giving a total of 160.
+However if you had an 8 piece puzzle this would be multiplier of 80 multiplied by 8 pieces 
+which would give you 640.  To create that score with the original 4 part loop you would have to 
+complete that four times which would need twice as many pieces, so the bigger the loop the 
+bigger the score and the faster you can complete the level.
+Upon completion of a level, a stats page will show you information on score for that level, 
+number of pieces left on board, deductions from score, and total game score.  The decuctions 
+from score is based upon amount of pieces left on screen multiplied by 10.
+If you managed to fill the whole screen with pieces, the level will be full and you will lose a
+lifeand have to restart that level.
+Gameplay is over when all lives are lost
+Thats about it.
+
+The keys.
+On the start screen, Use Left/Right shoulder keys to alter the brightness, and use Start to play.
+Whilst playing, use cursor keys to move current item around the play arena.
+Use A button to drop the current piece, or if the piece is a star, use A to remove a piece.
+Use Left/Right shoulder to shoot a missile from either left or right hand side of screen.
+Press Select to pause the game.  In this mode you can use Select to resume the game,
+Start to quit the game, or the Left/Right shoulder buttons to increase/descrease the screen 
+brightness.
+
+

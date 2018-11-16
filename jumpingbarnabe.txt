@@ -1,0 +1,44 @@
+Jumping Barnabe 
+--------------------------------------------------------------------------------
+CODE         : alekmaul
+ADAPTED FROM : Jumping Barnabe from Alekmaul
+
+You can find its topic here :
+http://www.portabledev.com/pages/ds/jeuxdev.-perso/jumping-barnabe.php
+
+To join me, send a mail here : alekmaul@portabledev.com
+
+Jumping Barnabe Updates and GBA & NDS Stuff/Game about developpment can be found 
+in PORTABLEDEV CODING ZONE: http://www.portabledev.com/
+
+Instructions:  
+--------------------------------------------------------------------------------
+Barnabe must retreive the great poem of his family 'THE BALLAD OF JUMPING BARNABE',
+which is lost in lots of locations. Using the D pad and A button, the idea is to 
+reach the top of the both screens. Each screen consists of 8 floors, and Barnabe has 
+to jump throught the (moving) holes in these floors to progress. If Barnabe falls 
+down one of these holes, he is momentarily stunned, and loses a life if he falls 
+through the bottom floor. Things are made more difficult on later levels with the 
+addition of nasties that walk along the floors, and also need avoiding. The number 
+of nasties present depends on the level Barnabe is on.
+
+After each level is completed, a line from the lost poem is revealed. The game 
+consists of 20 levels, which revealed one line of the poem each time and five
+differents worlds with differents nasties too.
+
+How to play :
+--------------------------------------------------------------------------------
+START        : Pause and play level
+A            : Jump
+LEFT & RIGHT : Well, move left and right ;-)
+
+History :
+--------------------------------------------------------------------------------
+V1.0  : 13/09/2007
+ Initial release
+
+--------------------------------------------------------------------------------
+Alekmaul
+alekmaul@portabledev.com
+http://www.portabledev.com
+--------------------------------------------------------------------------------

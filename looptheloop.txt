@@ -1,0 +1,4 @@
+Loop the Loop (20-12-2004)
+By Shen Mansell
+
+Loop the Loop is a A crazy snake type game. Eat the fruit and draw a loop around everything else.

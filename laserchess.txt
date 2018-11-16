@@ -1,0 +1,45 @@
+=============================================
+== Classic LaserChess for GBA!!!
+==
+==     by: Russ Prince 11-27-2001
+==         russ@russprince.com
+==      http://www.russprince.com
+==
+=============================================
+
+Many of you will probably not know (or care) what this game is, but here it is anyways, so injoy it, it's
+fun.
+
+History
+========
+LaserChess is a game I originally typed into my Amiga 1000 computer back in the late 80's
+from a magazine called 'Compute'.  The game was originally written by Mike Duppong in 1987,
+and had apparently won some contest for best original game.  Although not exactly like "real"
+Chess, this game has many strategic elements like chess, with the addition of a LASER BEAM!!!  =P.
+The one main difference is there are no specific movement rules for the pieces, as they all follow
+the same movement rules (one square per move).
+
+So I present LaserChess here in GBA format with the look and feel of the original version.
+Although this version has some sounds, they are just goofy sounds that I threw in, as I
+don't have any samples of the original LaserChess Sounds.
+
+
+Controls
+========
+D-Pad                - Move cursor.
+A Button             - Select A Piece / Release Piece
+B Button             - Cancel Move (if piece is selected)
+Dbl Tap B Button     - Fire Laser
+Left/Right Triggers  - Rotate Piece (when piece is selected)
+
+Start Button         - New Game (if game is over)
+Dbl Tap Start        - Reset Game
+
+Requirements
+============
+This game should run on just about any emulator, and will also run on real hardware.
+
+
+Please send feedback and suggestions to
+russ@russprince.com
+

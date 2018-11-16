@@ -1,0 +1,76 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                             - JUMPING JIM 1.0 -
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+CODE & GFX : alekmaul (adapted from ZX Spectrum Jumping Jack game)
+SOUND      : "Music" (well, if we could said :D ) adapted from ZX Spectrum
+             Engine ADPCM by Damian Yerrick (http://www.pineight.com/gba/)
+             Special thanks to Brunni, Nes and Nrx for contribution ;-)
+
+To join me, send a mail here : portablenint@free.fr
+
+Jumping Jim Updates and GBA & NDS Stuff/Game about developpment can be found in 
+PORTABLENINT CODING ZONE: http://portablenint.free.fr/
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Jumping Jim is a platform game, originally on the Sinclair ZX Spectrum named 
+Jumping Jack game in 1983.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Instructions:  
+
+Using the keys and A, the idea is to reach the top of the screen. Each screen 
+consists of 6 floors, and Jim has to jump throught the (moving) holes in these 
+floors to progress. If Jim falls down one of these holes, he is momentarily 
+stunned, and loses a life if he falls through the bottom floor. Things are made 
+more difficult on later levels with the addition of nasties that walk along the 
+floors, and also need avoiding. The number of nasties present depends on the 
+level Jim is on.
+
+After each level is completed, the line from a poem, THE BALLAD OF JUMPING JIM, 
+is revealed.
+The game consists of 20 levels, which revealed one line of the poem each time.
+
+The ballad of Jumping Jim is as follows:
+
+THE BALLAD OF JUMPING JIM
+
+A daring explorer named Jim
+Once found a peculiar track
+There were dangers galore
+Even holes in the floor
+So he kept falling flat on his back
+
+Quite soon he got used to the place
+He could jump to escape from the chase
+But without careful thought
+His leaps came to nought
+And he left with a much wider face
+
+Things seemed just as bad as could be
+Hostile faces were all Jim could see
+He tried to stay calm
+And to come to no harm
+But more often got squashed like a flea
+
+By now Jim was in a great flap
+He felt like a rat in a trap
+If only he'd guessed
+That he could soon rest
+After jumping the very last gap - WELL DONE
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+How to play :
+
+START        : Pause and play level
+A            : Jump
+LEFT & RIGHT : Well, move left and right ;-)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+A special thanks to playeradvance (http://www.playeradvance.org), for help and 
+ informations on GBA and DS !
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[-HISTORY-]
+[05 July 2005] - Jumping Jim initial release -
+
+Alekmaul

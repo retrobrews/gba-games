@@ -1,0 +1,156 @@
+
+-----------------------
+    Matrix Runner
+-----------------------
+
+Nicholas Scheltema 2007 - nscheltema@gmail.com
+PDROMS.DE coding competition 3.666 - www.pdroms.de
+
+
+The game:
+---------
+
+This game is inspired by William Gibson's Neuromancer book and it's sequels with a bit of influence from the 
+likewise inspired RPG, Shadowrun.
+
+You play the role of a hacker in the future, a 'decker', jacking into the global computer network 'The Matrix' 
+with a direct brain link that enables you to experience the computer network as a virtual reality.
+
+
+Controls:
+---------
+
+UP/DOWN    - select network number and commands
+LEFT/RIGHT - move your avatar in the matrix
+
+UP/DOWN/LEFT/RIGHT - (on the system map) move your position in the network
+
+A - action
+B - cancel
+
+Press A to start the game from the startup demo mode.
+
+Gameplay:
+---------
+
+For each network in the game there is a contract for a particular task to be done. This could be stealing files
+from data stores, using devices through i/o ports or crashing the CPU. You get paid when you accomplish this task;
+the higher the network number, the more you get paid. But the higher network numbers are also more difficult and
+dangerous to attack.
+
+When you start the game you must select the network you want to attack. Use UP/DOWN to change and A to select.
+The alert level beneath the network will indicate whether or not you can enter the network; green means you can,
+red means you cannot.
+
+Once you've selected a network, the system map will draw the layout of the network. Your position in indicated by
+the flashing node, your target node is highlighted with four dots around it. Each square represents a possible
+node location, and the lines between them indicate paths between the nodes. Each node symbol in the squares indicate
+what the node is:
+
+C     - CPU, the central core of the network
+	Notes: You can travel to anywhere in the network from here, bypassing active security.
+	Use command: Crashes the network, automatically jacking you out.
+
+S     - Store, a data storage node on the network
+	Notes: May contain other data of worth
+	Use command: retrieve files
+
+P     - Port, an interface to an external device
+	Use command: activate the port
+
+E     - Entrance / exit
+	Notes: Moving to this node will cause you to jack out of the system
+
+O     - Unused node
+	Notes: Have no security systems
+
+Use UP/DOWN/LEFT/RIGHT to change your position in the network, you will be unable to pass nodes with active security.
+Use A to interact with the node.
+
+When interacting with a node, the main display area lights up. Here you will see the node you are interacting in the
+centre of the display and your avatar near the bottom. On the right hand side is the command list. At the top left
+is the node's statistics, the node defence indicates the security system's integrity and the node level indicates how
+powerful the system security is. At the bottom left is the player's defence, attack power and nuyen amount.
+
+Use LEFT/RIGHT to move the player avatar. Use UP/DOWN to select programs on the right hand menu, and A to execute that 
+command. The commands include:
+
+Attack - Damage the security system, reducing the node defence amount
+	 Upside: guaranteed to succeed eventually
+	 Downside: red alert sounded
+
+Crack  - Try to penetrate defences using algorithms to generate passcodes
+	 Upside: disables security on success
+	 Downside: moderate success rate
+
+Sneak  - Try to disguise your signature on the network as something mundane so the system ignores you
+	 Upside: temporarily bypass system security
+	 Downside: security is not disabled
+
+Use    - Access the node's functionality, see the node list above for details
+	 The node's security must be disabled for this to work
+
+Move   - Leave this node, this will take you back to the system map to move around
+
+The level of the program vs the level of the node determines the success rate of the command. A sphere in the middle 
+of the node indicates the security is still active, when the node's defence reaches zero the security is disabled.
+Once you've been to a node, it is easier to return, possibly even bypassing nodes you snuck passed before.
+
+The network has an alert level, which is indicated beneath the network number and can be either
+green, yellow or red. Repeatedly failing to crack, sneak or use a node will make the system suspicious and it will
+raise the alert level. Attacking a node will set the whole system to red alert instantly. Once the system is in red
+alert, attempts to crack or sneak will fail, nor will you be able to leave a node with active security. All security
+in a network is reset when you re-enter it after leaving it.
+
+In red alert mode, all the system nodes' security will attack you, the higher the node level, the faster and more
+damaging the attacks are. You must dodge the attacks coming towards you by moving your avatar using LEFT/RIGHT.
+Every hit damages your defences, and when your defences hit zero, its game-over and your brain gets fried! When you
+are game over, the number of objectives you completed are displayed at the bottom of the screen.
+
+In red alert mode, your only option is to attack. The attack program needs time to construct another attack, this is
+indicated with the power bar at the bottom of the display and it needs to reach full power before you can attack again.
+The higher the level of the attack program, the faster it constructs attacks and the more damage it does.
+
+Once you've removed the defences and completed the objective, you must make your way back to the exit node to jack out.
+If you crash the CPU, you jack out automatically. You cannot re-enter a network once you've completed its objective,
+the alert level will be set to red permanently and refuse all incoming connections.
+
+Whenever you leave a network, you get the opportunity to buy upgrades for your programs. The higher the level your
+program, the more effective it is. The cost of each upgrade to the next level is the current level of the program
+multiplied by 1000 nuyen. Use UP/DOWN to select the program on the right hand menu, A to buy the upgrade and B when
+you are done.
+
+After the upgrade menu, you return to the network select mode to choose your next target. If you can complete all 256
+available networks, you win and earn the title of being elite.
+
+
+Strategy:
+---------
+
+The basic strategy is to avoid setting off alarms and red alert while trying to reach the objective.
+
+You should try to crack and sneak your way through the system.
+
+Log into networks, raid non-objective datastores and log out again to save up for upgrades.
+
+You should only attack if red alert is sounded or the defences are way too high to crack or sneak by.
+
+
+Programming notes:
+------------------
+
+All the networks are procedurally generated, so they will be the same every time you play the game. It is possible to 
+learn or even map the game.
+
+I tried to keep the rom size as small as possible, using run length encoding for the background image and bit-encoding
+the sprites, and compiling to THUMB instructions. Unfortunately, I used stdio to convert some numbers to a format I could 
+display with sprites which practically doubled the rom size. It's still under 64KB though.
+
+
+Gameboy Advance / Emulation notes:
+----------------------------------
+
+This game was untested on the real hardware, but it worked 100% on VisualBoyAdvance.
+
+If you are going to try it on the real thing, you will need to GBAFIX the rom header information.
+

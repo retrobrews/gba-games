@@ -1,0 +1,132 @@
+|  /  |        /\   |    |    
+| /   |       /  \  |\   |    
+|/    |      |    | | \  |    
+|\    |      |----| |  \ |    
+| \   |      |    | |   \|    
+|  \  |____| |    | |    |    
+--------------------------                            
+W   :   A   :    R   :   S                             
+--------------------------                             
+A strategic "cult" game by                               
+ Lord Graga The Nurgling!
+  Made for the GBAX.com
+    march 2002 compo.
+--------------------------
+
+         WARNING:
+       ------------
+ IF YOU FEEL OFFENDED BY
+GAMES THAT HAS KKK, BLACK
+PEOPLES, NAZIS, SATANISTS
+AND OLD LADIES IN IT, THEN
+PLEASE DON'T PLAY THIS
+GAME. THIS GAME ISN'T MADE
+   TO IMPROVE RACISM OR
+VIOLENCE, IT IS MEANT AS A
+ KIND OF SPOOFY GAME, NOT
+  TO BE TAKEN SERIOUS BY
+         ANYONE
+       ----------
+
+-----------INFO-----------       
+Game name:       Klan Wars
+Genre:            Strategy
+Author:         Lord Graga
+Mail:lordgraga@hotmail.com
+--------------------------
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+How to play:
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+	When you start the
+game you shoudl see a some
+fading splash screens.
+Now the menu shows up,
+choose "New Klan". You now
+have 300$ to buy a "klan",
+which may maximaly consist
+of 15 members. After you
+have bought the Klan you
+have to choose a the
+graphics for your klan.
+Since this game isn't made
+to improve racism or mark
+any kinds of "gaps"
+between the different
+kinds of groups, then
+there will be no
+differnece between playing
+Old lady or Nazi, and so
+on.
+	After you have
+choosen your graphics you
+will get to choose the
+leader of your group.
+	After you have
+cofirmed your leader you
+will be returned to the
+main screen, then go to
+"single player". To
+choose the group that you
+last made, press left.
+	The controls
+ingame are simple. Just
+move the cursor around
+with the D-PAD and press
+A the choose a troop.
+The troop will move to
+the next spot that is
+selected if you press A
+again, but only if it has
+enough move, or enough
+range to fire within.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+Notes:
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+	I am extremely sad
+because of that I couldn't
+finish the AI, and maybe
+there are still a bigger
+load of bugs that needs to
+be fixed... :(
+	I planned it all
+wrong, so this is what i
+got finished.
+
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thanks to:
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+All peoples who has asked
+me about the progress of
+the game, thank you for
+the interest!
+
+Staring Monkey for his
+writetext routine and his
+LIB :)
+
+Big N for creating the
+GBA.
+
+GBAX.com, no GbaX.com can
+be help without you, and
+thanks for the 150$ and
+the lovely piece of
+hardware that reaches my
+house next week ;)
+
+My mom and dad for my DSL
+and for letting me stay
+up until 01:00 at night
+to work on the game.
+
+
+
+
+

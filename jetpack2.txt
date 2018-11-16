@@ -1,0 +1,63 @@
+For the GBAX.COM 2004 compo
+
+Author: Mukunda Johnson
+Email: mukunda51@hotmail.com
+
+------------
+
+I didn't really have much time to make this game (started dev'ing when I heard the news...)
+So, the point of the game is just to make the player have fun. Here's the basics:
+First the title screen shows and you press start to goto the setup screen.
+Then you pick the number of enemies from 0-4, these enemies don't fight each other, they only make the game harder by attacking you.
+Then you click A on the 'NAME:' label to select one of the 13 maps. Some maps have different options,
+Indestructable: Makes the main tiles indestructable.
+Fuel Depletion: Your jetpack fuel will decrease when you use it.
+Goal Game: Some maps you can enable this, after enabling this, search the level for an object(you'll know what it looks like when you see it), when you find it you will win.
+You can toggle these options by moving the cursor over the label and clicking A.
+You can press SELECT during the game setup screen to access the on-screen help, Start to begin the game, and B to return to the title. (mentioned below)
+
+Here's the Ingame controls:
+Direction Pad - Move, Fly/Jump/Climb
+A - Shoot/Use weapon
+B - Detonator (for Explosives)
+L - Change current weapon
+R - Toggle status
+Select - Toggle jetpack on/off
+Start - Pause
+
+Your ammo is displayed in the top left corner along with your life and number of kills and deaths.
+Oxygen is the blue gauge in the top right corner, Fuel is the red gauge next to that.
+The gun that the player is using is displayed in the bottom left corner.
+
+You can climb ladders/(climbable thing) when your jetpack is off/disabled.
+
+Weapons:
+ -Assault Rifle
+   This gun is deadly if you have a good steady aim.
+   Infinite Ammo
+ -Bazooka
+   This gun launches your missles foward.
+   Missles will explode if they hit an enemy or solid terrain.
+   You can fire 10 at a time, limited ammo.
+ -Grenades
+   Throws a grenade up+foward.
+   Grenades can bounce off walls.
+   Grenades will explode in about 4 seconds, or will explode immediately if they hit an enemy.
+   You can throw 10 at a time, limited ammo.
+ -Hover Mines
+   This will place a mine that will hover in the air.
+   Will explode if an enemy approaches it.
+   Infinite Ammo-10 at a time.
+ -Explosives
+   Places an explosive on the object in front of the player.
+   Detonate these with the B button.
+   Infinite Ammo-10 at a time.
+
+Tips:
+ -You can jump start your jetpack by turning it on right after you jump.
+ -You fall alot faster when your jetpack is off, This can be advantageous when you encounter enemies and want to escape,
+but... you must have a safe landing like water, turn on your jetpack ahead of time, or you fall to your death.
+ -You can stick explosives on enemies :>
+
+
+P.S. I added the "BLOCK" map for the compo :)

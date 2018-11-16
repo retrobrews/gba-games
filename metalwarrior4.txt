@@ -1,0 +1,455 @@
+
+
+                    Metal Warrior 4: Agents of Metal GBA V1.1
+
+                       A Covert Bitops production in 2006
+
+
+0. THE STORY SO FAR
+
+(Added for the GBA version. Warning: spoilers for the games Metal Warrior 1-3.
+This is intended as a quickstart so that one can jump directly to part 4 and
+have some kind of idea what is going on and who the characters are.)
+
+In the violent near future, there existed a war/thrash metal band CYBERPRIEST,
+whose music brought strength and hope to the hessians struggling from day to
+day. It consisted of these talented individuals:
+
+FAUSTUS (Bass/Vocals) - a natural leader and perceptive songwriter
+SADOK (Guitar) - an intolerable personality, whose buzzsaw-like playing and
+dedication more than made up for that (he joined the military for a time just
+to get war-metal writing inspiration, it appeared)
+PHANTASM (Guitar) - her more thoughtful playing and skillful leads brought
+another side to their music
+GOAT (Drums) - an aspiring Nietzschean Over-Man, who pounded with equal ferocity
+both his drums and anyone who dared to pick a fight with him
+
+Just as the band was starting to get notoriety outside their hometown SUB-CITY,
+SADOK was murdered in an manner very atypical to a metalhead: it appeared to be
+a job of professional hitmen. His best friend and novice guitarist IAN swore to
+find those responsible, in the process joining CYBERPRIEST himself.
+
+It turned out that SADOK did not die for nothing: he had uncovered a twisted
+military mass mind control project involving an insane scientist DR.ULTRASHRED.
+Then, it also turned out he was not dead at all.
+
+In the adventures that ensued IAN, PHANTASM and GOAT each took turns unraveling
+the military's many conspiracies, and finally revealed and brought to justice
+the mastermind behind them, GENERAL IRONFIST.
+
+But all this was not without a price: as IAN and PHANTASM fell in love after
+their first adventure, CYBERPRIEST dissolved hatefully, and shortly afterwards
+SADOK died for real during a raid to a supposedly abandoned installation. GOAT
+went to live in the woods, and FAUSTUS became disillusioned and simply
+disappeared.
+
+
+1. PROLOGUE
+
+Three weeks after the events depicted in 'Metal Warrior 3', two figures stand at
+the gates of a deserted farm..
+
+Led by a phone call consisting of ominous pig grunts & squeals, and the
+voice of the maniacal bassist/vocalist LORD OBSKURIUS, they have been asked to
+arrive at this place for reasons unknown.
+
+They are IAN SMITH (artist name yet undecided) and JOAN ALDER (aka PHANTASM)
+who were, on several occasions in the past, drawn into violent conflict with
+a powerful military conspiracy.
+
+With the conspiracy revealed and brought into justice, they should now be free to
+live together in peace, wielding their axes only in symbolic combat against the
+evils of the future world.
+
+But things are about to get weird.. The Agents of Metal are about to enter the
+picture.
+
+
+2. INITIATION
+
+You are asked to assume the control of IAN on his journey to the unknown. 
+As the game begins he is his usual self but an initiation and transformation 
+into Agent form awaits..
+
+
+3. CONTROLS
+
+LEFT          - Move left
+RIGHT         - Move right
+UP            - Climb up
+DOWN          - Crouch/climb down/Pick up
+A + LEFT      - Jump left
+A + RIGHT     - Jump right
+B + Direction - Attack
+B + DOWN or L - Use current item
+B + UP or R   - Interact/Drop item
+START         - Enter/exit game menu
+
+There are 6 possible attack directions: left, right, up-left, up-right,
+down-left and down-right. However not all weapons can attack behind and
+diagonally.
+
+
+3.2 SPECIAL MANEUVERS
+
+To go up stairs instead of down, hold UP direction while moving.
+
+To jump away from a ladder, press A + LEFT or A + RIGHT.
+
+To perform a 'wall-flip' while jumping, press A and the direction opposite to
+your motion (LEFT or RIGHT) at the moment you hit the wall.
+
+
+3.3 ITEM MANIPULATION
+
+To pick up an item, crouch at it (press DOWN - you are near enough when
+the item's name is displayed). If you cannot pick up an item, you likely have
+reached your carrying capacity. See the STATUS SCREEN if this is the case.
+
+To 'use' the currently selected item, press B + DOWN, or L button. Examples of
+items that can be used are first aid kits, armor rechargers, and the 'Agent
+gear' you receive soon after game start. Firearms are also reloaded this way.
+
+To drop an unnecessary item, select it from the inventory and hold B + UP, or
+R button for 1 second. If the screen is already full of items you must go
+somewhere else. When a firearm is dropped, any ammunition held in it is moved to
+the ammunition reserve.
+
+Note that when you move to another area, any dropped weapons, ammunition and
+supplies will disappear (stolen?) But if you drop them into a closet or onto
+a storage shelf (1 item max. per closet or shelf) they will remain.
+
+
+4. INGAME STATUS DISPLAY
+
+The bottom left part of the screen shows your score, current weapon/item selected
+and ammunition remaining.
+
+For firearms, the ammunition display is split in two. Left side shows rounds in
+magazine and right side shows number of magazines remaining.
+
+For melee weapons, INF (infinite) is displayed.
+
+The top part of the screen shows your health (H) and armor power (A) meters.
+
+Keep an eye on the health meter; when it falls to zero you are defeated and the
+game is over.
+
+The armor power meter will fill only after receiving and activating your 'Agent
+gear'. The armor will take most of the damage as long as it has some power left.
+
+To replenish health, use first aid kits. To replenish armor power, use armor
+rechargers. You will also automatically regain health up to 1/3 of the meter
+after taking near-fatal damage.
+
+
+5. MENU SYSTEM
+
+Press START to pause and access the game main menu.
+
+The main menu is divided into 3 subscreens: GAME MENU, INVENTORY and STATUS.
+To move between them, push LEFT/RIGHT. To move within a subscreen, push
+UP/DOWN. To activate a menu item, press the A button.
+
+Press B or START to cancel a menu choice and return to the previous menu or
+continue the game.
+
+
+5.1 GAME MENU
+
+Before a game is started, only the GAME MENU is accessible.
+
+NEW GAME
+- Start a new game. You are presented with a difficulty level selection:
+  EASY - Less player damage & enemies, carrying capacity 25kg
+  NORMAL - Normal player damage & number of enemies, carrying capacity 20kg
+  HARD - More player damage & enemies, carrying capacity 15kg
+
+LOAD GAME
+- Load an existing game. 1-6 are manual save slots and A is the autosave,
+  saved on each level change.
+
+SAVE GAME
+- Save the current game. Select a slot between 1-6. Note that the autosave is 
+  overwritten for each new game, so it is recommended to also save manually.
+
+QUIT GAME
+- End game and return to title screen. You are asked to confirm.
+
+MUSIC Y/N
+- Toggles whether music will be played. With music off you will hear more
+  sound effects, such as footsteps.
+
+SOUND Y/N
+- Toggles whether sound effects will be played.
+
+
+5.2 INVENTORY
+
+Here you can select the current item (weapons, first aid kits etc.) in use.
+Press A, B or START to confirm & return to game.
+
+
+5.3 STATUS SCREEN
+
+The STATUS SCREEN displays your total game time, weight of items carried, and
+three status bars:
+
+VIT   - Vitality
+STR   - Strength
+ARMOR - Armorsystem class
+
+With higher vitality, the health bar will deplete slower from damage.
+
+Higher strength increases your carrying capacity, so that more weapons and
+supplies can be carried at a time. Your melee attacks and thrown weapons
+also become more powerful.
+
+A higher armorsystem class means that the armor can stop more damage before
+requiring to be recharged.
+
+Vitality & strength upgrades can be found in enemy installations. Use
+Surgical Units to install these. Armor upgrades can also be found; these can be
+installed simply by selecting from the inventory and using (B + DOWN, or L
+button).
+
+
+6. INTERACTION
+
+There are several ways to interact with the game world. All of them are
+activated by pressing B + UP, or R button (the 'interact' control).
+
+
+6.1 CONVERSATION
+
+You need to stand near and face the person you wish to talk to, and hold
+the 'interact' control for about 1/4 seconds.
+
+If no conversation begins, this means simply that there's nothing important to
+say at the moment - you might want to come back later. Also, if the person is
+engaged in combat, you must wait.
+
+Press A, B, L or R to proceed to the next dialogue text display.
+
+At times you are able to choose your reply from multiple choices; this is
+indicated by arrows in the message window and a question mark above your
+character's head. Press UP/DOWN to see the choices and A button to select.
+
+Sometimes conversations are also triggered automatically when you are
+near a person.
+
+
+6.2 GAME WORLD OBJECTS
+
+When you're standing at an object that can be interacted with, an arrow will
+flash at your character's feet.
+
+
+6.2.1 DOORS, SWITCHES, CLOSETS
+
+To enter a door, stand in front of it and hold the 'interact' control for
+about 1/4 seconds. Some doors need to be opened or unlocked first by using a
+nearby switch or keycard lock.
+
+To operate a switch or lock, you need to stand in front of it. Any item
+required will be inserted automatically.
+
+Closets might contain ammunition, weapons or other useful items.
+
+
+6.2.2 COMPUTER TERMINALS
+
+The contents of a computer terminal screen are displayed either in the main
+game screen or in the message window. Sometimes you are also be presented with
+a control interface similar to the game menu.
+
+
+6.2.3 RECHARGERS AND SURGICAL UNITS
+
+These fixed units can be used to regain lost armor power or health. The surgical
+unit presents you with a menu interface:
+
+HEAL - Restore all health
+VIT  - Install vitality upgrade
+STR  - Install strength upgrade
+EXIT - Return to game
+
+
+6.2.4 ELEVATORS
+
+To go up on an elevator, interact while standing on its left half. To go down,
+interact while standing on the right half. An elevator call button can
+usually be found next to an elevator shaft.
+
+
+7. THE MAP SCREEN
+
+When you exit an area you are presented with a map screen to choose your next
+destination. Use UP/DOWN/LEFT/RIGHT to move and A button to select.
+
+New locations are added to the map as you learn of their existence. Note that
+you need to locate and use the ground level exit of each enemy installation
+before you can return to it simply via the map screen.
+
+
+8. WEAPONS & AMMUNITION
+
+There are 21 different kinds of weapons in the game, and of course your trusty
+fists to fall back upon.
+
+Note that by picking up every weapon you encounter you will likely reach your
+carrying capacity quickly.
+
+Common ammunition types and uses:
+
+9mm       - Pistols, Submachine gun
+.44       - .44 Magnum pistol
+5.56      - Automatic rifles
+7.62      - Sniper rifle
+12 gauge  - Shotguns
+Darts     - Dart gun
+Batteries - Electronic stun gun
+
+Any experimental weapons that you encounter might require their own kinds
+of ammunition.
+
+The weapons with non-lethal effect are:
+
+- Fists
+- Baton
+- Dart gun
+- Electronic stun gun
+
+Some weapons (such as the dart gun) have a prolonged damage effect, that the
+armor does not protect against. You will notice this when the health bar starts
+to decrease even if you have armor left, and your character flashes. Using a
+first aid kit stops this.
+
+
+9. AGENT HINTS & TACTICS
+
+Enemies detect you by sight and sound. When you crouch-walk (sneak), they will
+not hear you.
+
+Enemies might be expecting you when there has been gunfire or other loud noises 
+just before. It might be beneficial to let things calm down before proceeding.
+
+Reloading in the middle of combat can prove fatal. Therefore it is often wise
+to ensure beforehand (use B + DOWN, or L button to reload) that you have a
+fresh magazine.
+
+A damage bonus is added to surprise attacks from behind (for example, a guard
+might go down with one blow of the Baton).
+
+An Agent might not necessarily have to kill; double points are awarded for non-
+lethal defeat of an enemy.
+
+Good luck on your adventure!
+
+
+10. CREDITS & COPYRIGHT
+
+Agent concept:
+LIONEL GENDRE & LASSE ÖÖRNI
+
+Programming, graphics, sound:
+LASSE ÖÖRNI
+
+Music:
+HARRI AHOLA,LIONEL GENDRE,PAAVO HÄRKÖNEN,JUHA JAAKKOLA,ANSSI JÄÄSKELÄINEN,ANTTI
+KIVILAHTI,BAS KOOY,JUHO KOTILA,DENNIS MOTT,DANIEL WUIS,LASSE ÖÖRNI
+
+Concept of the Gas-Fist (Kaasunyrkki):
+SULTAN
+
+Ending quotes:
+AGENT METAL
+
+Copyright (C) 2002-2006 by the authors.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+3. The name of the author may not be used to endorse or promote products
+   derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ''AS IS'' AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+
+11. THANKS FOR AGENT EVIDENCE
+
+Betatesting:
+MAT ALLEN,RICHARD BAYLISS,ROMAN CHLEBEC,JÖRG DRÖGE,MICHAEL DURRER,MATHIEU FAES,
+ANDREW FISHER,JOHAN FORSLÖF,LIONEL GENDRE,PAAVO HÄRKÖNEN,JOHAN IJZERMAN,
+MILO MUNDT,KARL-JOHAN NILSSON,SIMON QUERNHORST,LAZE RISTOSKI,LUIGI VICARI
+
+Fastloaders/drivecoding (C64 only):
+MARKO MÄKELA,KRZYSZTOF MATULA,MAGNUS LIND,NATHAN SMITH,GUNNAR RUTHENBERG,
+KOVACS BALAZS,WOLFRAM SANG,CHRISTOPH THELEN
+
+Exomizer (C64 only):
+MAGNUS LIND
+
+SuperCPU programming (C64 only):
+STEFAN GUTSCH
+
+Extra RAM programming (C64 only):
+WOLFRAM SANG
+
+6510 emulation (GBA only):
+VICE TEAM
+
+Discussions & suggestions:
+BRIAN BAGNALL,RICHARD BAYLISS,JAN BÖTTCHER,ROMAN CHLEBEC,JÖRG DRÖGE,
+MICHAEL DURRER,PAAVO HÄRKÖNEN,JASON KELK,KALLE NIEMITALO,OLLI NIEMITALO +
+many more
+
+Primary Agent inspiration:
+AGENT STEEL (the band)
+DEUS EX (the game)
+
+Special thanks to all betatesters, without whom many infernal bugs would
+have remained.
+
+Greetings to all C64 users, sceners, artists & webmasters etc. and to everyone
+in the GBA homebrew community. You rule the world!
+
+
+12. CONTACT INFO
+
+Covert Bitops homepage: 
+http://covertbitops.c64.org
+
+Tracked Metalscene (home of the guys who did music):
+http://www.trackedaggression.com
+
+Agent Metal:
+http://agentmetal.free.fr
+
+
+13. GBA VERSION HISTORY
+
+V1.0
+- Original release
+
+V1.1    
+- Added autosave on level change
+- Added automatic health regain up to 1/3 health after taking near-fatal damage
+- Fixed actor lower part getting displayed only partially when overlapping the 
+  bottom border
+- Fixed actor animation while reloading the flamethrower & moving

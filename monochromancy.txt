@@ -1,0 +1,52 @@
+Monochromancy
+-------------
+
+PDROMS.DE coding competition 2.5
+
+Visit www.consolefever.com!
+
+
+By: Nicholas Scheltema 2004
+Email: ndbscheltema at yahoo dot com
+       s20118744 at student dot petech dot ac dot za
+
+******************************************
+The game entry is for the Gameboy Advance.
+******************************************
+
+
+Music:
+------
+The MOD music in the intro I originally wrote for a little RPG I was working on.
+
+
+The LCD game:
+-------------
+
+You play the Defender, and you must stop the Flying saucer from dropping the big
+energy balls on the passing train with your laser sword on every second standing position.
+On the other standing positions you get the chance to shoot at the Flying saucer,
+and your other task is to shoot it down.
+
+Notes:
+------
+
+Every 30 hits to the Flying saucer cause it to crash and you gain 1 extra life.
+
+Every 5 hits to the Flying saucer causes a hamburger and cooldrink to appear at
+the extreme right of the display for a brief moment, which can be collected for
+bonus points.
+
+If you miss an energy ball with your sword, it's okay as long as it doesn't hit
+the train passing beneath.
+
+Controls:
+---------
+
+Push A to start game in mode A (normal)
+Push B to start game in mode B (fast)
+
+During play:
+
+Left/Right - move player left and right
+         A - shoot (player picture must be holding gun up)
