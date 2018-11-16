@@ -1,0 +1,4 @@
+Shapes GBA v1.0
+By Gener Gabasa
+
+Shapes is a Bejeweled clone for GBA by Gener Gabasa, using Visual HAM 2.80.

@@ -1,0 +1,78 @@
+#############################################
+#                                           #
+# PPPP  U   U  SSS  H   H       IIIII TTTTT #
+# P   P U   U S   S H   H         I     T   #
+# P   P U   U S     H   H         I     T   # 
+# PPPP  U   U  SSS  HHHHH  ===    I     T   # 
+# P     U   U     S H   H         I     T   #
+# P     U   U S   S H   H         I     T   #
+# P      UUU   SSS  H   H       IIIII   T   #
+#                                           #
+#                Version 1                  #
+#                                           #
+#############################################
+
+	    Coded by Bootlegger
+
+  For entry into the 256k PDRoms Compo 2003
+ 
+	      Date 2/11/2003
+
+
+Game
+====
+This is a simple puzzle game whereby you must remove
+all the available marbles from the game arena.  
+To remove marbles, line up at least 3 of the same type.
+The marbles can be lined up vertical, horizontally, or
+diaganolly.  After removing marbles if you have either  
+1 or 2 of that particular type left on the game arena it
+is then impossible to complete the level so the game will
+restart that level after deducting one live.
+Make use of the blocker graphics and the edge of the 
+screen to assist in the correct positioning of the marbles.
+Marbles will not disappear if any one of the group of 
+marbles touches the perimeter of the screen - this makes it 
+a little more strategic, otherwise it would be too easy.
+
+If you realise that you have a marble stuck then use the 
+select button to quit the level and lose a life.  The
+level will restart.
+
+Upon removal of all marbles, your score will be increased 
+by the amount of time left - therefore complete the levels
+as quick as possible to gain the most points.
+
+When you time gets low a warning will sound and the control
+panel will flash indicating time is nearly up.
+
+The game is over when your lives count reaches zero.
+
+Thats it - game has 10 level.
+
+Keep up-to-date with this and all my other GBA projects at
+http:\\homepages.manx.net\bootlegger
+Other GBA developments include:
+3 Weeks In Paradise
+GBA Frogger
+32k Wavy Demo
+Drum Sequencer
+Donkey Kong Junior Game & Watch (In Development)
+
+
+Most of all, enjoy......
+
+
+Version History:
+V1.0 First release - more levels required - no bugs noted so far.
+V1.1 Second release - 10 levels now - detects end of levels and ends.
+
+BUG & Enhancements
+If you think you have found a bug with this program please supply
+me an email together with the version number, what the fault is 
+and how to replicate it where possible.
+If you feel you have a good idea on how to improve this product, 
+please mail me your suggestion.
+Lastly if you have a level design you would like added, please 
+supply a 10 by 10 level design to me via email.
+Email address : bootlegger@manx.net

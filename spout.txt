@@ -1,0 +1,61 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                             - SPOUT GBA 1.0 -
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+CODE         : Kuni (ku_@din.or.jp)
+PORTING      : Alekmaul (alekmaul@portabledev.com)
+               Mod Player from Apex Sound System
+
+SpoutGBA Updates and GBA & NDS Stuff/Game about developpment can be found 
+in PortableDev coding zone : http://www.portabledev.com/
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+What to do :
+The aim is to move the small square without making collisions with pixels on the 
+screen, easy ??? Try it, you will see :D !
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+How to play :
+
+START        : Pause
+A/B          : Throttle
+LEFT & RIGHT & UP & DOWN : Well, move left, right, up and down ;-)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[-HISTORY-]
+[June,25 2006] - More music, more optimisations, so more fast ;) -
+[June,23 2006] - SpoutGBA initial release -
+
+Alekmaul
+
+
+lisezmoi.txt:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                             - SPOUT GBA 1.0 -
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+CODE         : Kuni (ku_@din.or.jp)
+PORTAGE      : Alekmaul (alekmaul@portabledev.com)
+               Player Mod d'Apex Sound System
+
+Les mises à jour de SpoutGBA et les actuces/jeux sur GBA & NDS peuvent être 
+trouvées dans la zone developpement de PortableDev : http://www.portabledev.com/
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+L'histoire :
+Votre but est de guider le plus longtemps possible le petit carré sans qu'il touche
+à quoi que ce soit sur l'écran, simple ??? Testez pour voir :D !
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Comment jouer :
+
+START        : Pause
+A/B          : Mettre les gaz
+GAUCHE & DROITE & HAUT & BAS : Se balader de ... gauche à droite et de haut en bas :) 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[-HISTORY-]
+[25 Juin 2006] - Plus de musique, plus d'optimisation, donc plus rapide ;) -
+[23 Juin 2006] - SpoutGBA version initiale -
+
+Alekmaul

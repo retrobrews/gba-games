@@ -1,0 +1,39 @@
+Pac Run (March 2005) by Jake Reardon
+--------------------------------------
+This is my first attempt at a real game of sorts so enjoy it for what its worth..a simple little diversion.
+
+
+How to Play Pac Run
+---------------------------
+Oh no! The tables have been turned on good old Pac.  All of the ghosts have been covered in toxic pac-tar and are now after our ball shaped hero.
+Even though Pac is armed with teeth after a visit to the dentist, they serve him no purpose.  There is no escape.  See how long you can survive and try to set a high score.  The only thing Pac is able to do to prolong his life is find the bottles of Pac Beer floating around in space.  Each time a ghost hits pac, he loses 1 pac-health.  Drinking a bottle of Pac-beer will restore 1 pac-health.  In the event you need to make a quick escape there is also a warp bucket at the bottom middle of the screen that will use advanced pac teleport technology to warp you to one of the 4 corners of the screen.  Use at your own risk.
+
+You can run the game using a GBA emulator such as VisualBoyAdvance, or copy the rom over to a flash card and play it on the GBA or even on the nintendo DS.
+
+Controls
+--------
+
+left    - Move left
+right   - Move right
+Up	- Move Up
+Down	- Move Down
+Down (while on pac Teleport) - Will warp Pac to one of the 4 corners
+
+A	- Pac Turbo.  Very handy!!
+
+Start - Advance through Title screen.
+
+
+Contact
+-------
+
+Like this game?  Want to help me with better graphics?  Want to publish it..?!?!!? 
+
+Contact me at : jakenbear@gmail.com 
+
+
+Thanks
+------
+Thanks to GBADEV.org and the many others out there for their help and resources.
+
+

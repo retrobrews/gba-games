@@ -1,0 +1,17 @@
+Negative Space
+
+Originally made by MIA for the Nintendo DS using PALib.
+http://http://beyondds.free.fr/index.php?Negative-space
+
+Ported to GBA using HAM SDK v2.8 by Gener S. Gabasa
+http://genergabasa.php0h.com
+
+Negative Space is a homebrew puzzle/platform game for the NDS, based on the concept of negative space.
+The whole game contains only two colors: black and white. The player controls two ‘blob’ characters: 
+the white blob moves in the black space, and the black blob in the white space. 
+That’s why, empty space for one blob represents solid ground and walls for the other.
+
+The aim of the game is for each blob to capture its corresponding flag. 
+In order to do so, the player can draw directly on the touch screen in black or white and thus modify 
+the levels and create new paths and platforms. But keep in mind that a new path for one blob means 
+new walls for the other! 

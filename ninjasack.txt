@@ -1,0 +1,17 @@
+Ninjasack!
+
+email: lordgraga@hotmail.com¨
+irc: LordGraga @ EFNet
+Real name: Jacob Kjær
+
+
+A tiny fighting game by Lord Graga (code) and DayDream (gfx)
+
+
+Battle through endless hordes of ninjas throwing shurikens, using nothing but your shurikens and yoru faithfull katna:
+
+
+DPAD: Right/left
+A: Jump
+B: Slash
+R: Throw shuriken

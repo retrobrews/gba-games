@@ -1,0 +1,11 @@
+=== Paper, Scissor, Rocks 4 GBA
+== By Stian Hole (d3x) stian.hole[a]gmail[.]com
+
+Paper, Scissor, Rocks is just a basic game where you play against the CPU
+trying to get the better hand. It's an old classic tool for deciding on trivial
+matters, as well as fun past time.
+
+PSR4GBA is a port of PSR4DS, which is the original version. For future downloads
+and news, visit the games project website:
+
+http://paperscissor.googlecode.com/

@@ -1,0 +1,21 @@
+This game wouldn't be possible without:
+
+*  devkit advance by Jason Wilkin available at http://www.io.com/~fenix/devkitadv
+
+*  crt0.s, makefile, linkscript and probably lots of other stuff that I forgot about
+   by Jeff Frohwein and others. http://www.devrs.com/
+
+*  gba.h by eloist (heavily modified)
+
+*  tile and map files for Harry Mulders GBTD and GBMB. http://www.devrs.com/gb
+
+*  AFM v1.1 (w) 2001 by Silpheed/Hitmen, Groepaz/Hitmen  www.hitmen-console.org
+   this will need to be setup for you to link the code correctly, 
+   or you can hack the music stuff out
+
+*  All mods by their respective authors
+
+*  www.visoly.com for running the contest that prompted me to port this from gbc
+
+feel free to do whatever you want with anything in this zip that isn't mentioned above
+if you want to talk to me my email address is shenmansell@hotmail.com
