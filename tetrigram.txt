@@ -1,0 +1,107 @@
+Tetrigram v1.0
+By Francois Pessaux
+
+Use typical tetris elements to build objects. Similar to Tangram. Many levels and very addictive.
+
+
+
+** PALETTE **
+
+
+** MÉMOIRE VIDÉO **
+
+1 map en 16 couleurs = 30 * 20 * 2 = 1200 octets
+1 tile en 16 couleurs = 8 * 8 / 2 = 32 octets
+1 Screen Base Block = 2 Koctets
+
+Données de tiles alignées sur un Char Base Block (16 Ko).
+Maps alignées sur un Screen Base Block (2 Ko).
+
+VRAM  Address  VRAM
+  0x600F800 Screen Base Block 31
+  0x600F000 Screen Base Block 30
+  0x600E800 Screen Base Block 29
+  0x600E000 Screen Base Block 28
+  0x600D800 Screen Base Block 27
+  0x600D000 Screen Base Block 26
+  0x600C800 Screen Base Block 25
+  0x600C000 Screen Base Block 24
+Char Base Block 3 0x600C000
+  0x600B800 Screen Base Block 23
+  0x600B000 Screen Base Block 22
+  0x600A800 Screen Base Block 21
+  0x600A000 Screen Base Block 20
+  0x6009800 Screen Base Block 19
+  0x6009000 Screen Base Block 18
+  0x6008800 Screen Base Block 17
+  0x6008000 Screen Base Block 16
+Char Base Block 2 0x6008000
+  0x6007800 Screen Base Block 15
+  0x6007000 Screen Base Block 14
+  0x6006800 Screen Base Block 13
+  0x6006000 Screen Base Block 12
+  0x6005800 Screen Base Block 11
+  0x6005000 Screen Base Block 10
+  0x6004800 Screen Base Block 9
+  0x6004000 Screen Base Block 8
+Char Base Block 1 0x6004000
+  0x6003800 Screen Base Block 7
+  0x6003000 Screen Base Block 6
+  0x6002800 Screen Base Block 5
+  0x6002000 Screen Base Block 4
+  0x6001800 Screen Base Block 3
+  0x6001000 Screen Base Block 2
+  0x6000800 Screen Base Block 1
+  0x6000000 Screen Base Block 0
+Char Base Block 0 0x6000000
+
+
+** LAYERS **
+   BG0 : Sert à afficher l'introduction en 256 couleurs.
+		(Priorité la plus faible: 3)
+		Map : SCREEN_BASE_BLOCK_8
+		Tiles : CHAR_BASE_BLOCK_0
+         Sert à afficher le fond de l'écran de jeu en 256 couleurs.
+		(Priorité la plus faible: 3)
+		Map : SCREEN_BASE_BLOCK_8
+		Tiles : CHAR_BASE_BLOCK_0
+	 Sert à afficher les écrans de sélection des niveaux en 256 couleurs.
+		Map : SCREEN_BASE_BLOCK_8  (directories)
+		Map : SCREEN_BASE_BLOCK_9  (levels)
+		Tiles : CHAR_BASE_BLOCK_0  (communes aux directories et levels)
+   BG1 : Sert à afficher les cellules autorisées et interdite,
+	 Sert à afficher la disposition des pièces durant le jeu,
+	 Sert à afficher les digits des pièces disposibles.
+		(Priorité faible: 2)
+		Map : SCREEN_BASE_BLOCK_9
+		Tiles : CHAR_BASE_BLOCK_2
+   BG2 : Requester de pause / abandon.
+		Map : SCREEN_BASE_BLOCK_10
+		Tiles : CHAR_BASE_BLOCK_3
+
+Sprites:
+Les sprites ne sont jamais déchargés de la mémoire OAM. C'est-à-dire qu'une
+fois chargées, les données graphiques le constituant restent disponibles.
+   Intro:
+     Tiles du bouton clignotant (32 tiles)
+   Jeu:
+     Tiles de l'anim du bouton clignotant (32 tiles) (palette slot 0).
+     Tiles du pointeur en forme de doigt (palette slot 2) (16 tiles).
+     Tiles de la flèche utilisée dans les requesters (palette slot 1) (4 tiles).
+     Tiles de l'anim des yeux (palette slot 3) (24 tiles).
+     Tiles servant à construire les sprites représentant le pointeur en
+       forme de pièces de l'utilisateur (palette slot 4) (20 tiles).
+
+Le sprite numéro 127 est exclusivement réservé à l'affichage de l'animation
+des yeux.
+
+** TIMERS ***
+ => TIMER0 : Contrôle de la fréquence de playback du son.
+ => TIMER1 : Contrôle de la fin de playback des samples.
+ => TIMER2 : Comptage des secondes pour l'anim du sprite de bouton à presser.
+ => TIMER3 : 
+
+
+
+** SONS **
+8 bits 8KHz

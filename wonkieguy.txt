@@ -1,0 +1,104 @@
+Wonkie Guy by Sean Reid
+=======================
+
+Date: March 7, 2003
+Note: This is a special version of Wonkie Guy for the 
+      GBAX.COM 2003 Coding Competiton, hosted by:
+
+        http://www.gbax.com
+        http://www.gbaemu.com
+
+The competition website can be found at:
+
+    http://www.gbax.com/GBAX2003comp.html
+
+
+About the Demo
+==============
+
+This is my first real GBA project which is a simple side-scrolling
+platform game.  It is built on top of an engine that I am currently
+producing.  Basically, as I program this game, I am programming
+the engine.
+
+
+Playing the Game
+================
+
+Control-Pad         - Move Wonkie, the main player
+Start               - Pause
+A                   - Jump
+B                   - Toss Head
+B+A+Start+Select    - Reset Game
+L+R (Title Screen)  - Erase save-game (start from first level again)
+?????               - Special debug mode
+
+Be sure to collect your head after you toss it.  You have a limited 
+amount to get your head before you die.  The amount of time you have 
+remaining is shown in the top-right corner of the screen, named the 
+headless meter.
+
+Your health meter is denoted by the 5 hearts next to the headless
+meter.  When your health is depleted, you will die and have to start 
+at the beginning of the level.
+
+If you happen to throw your head down the pit, you will eventually 
+die since you can no longer collect your head.  You might as well 
+collect as many gems on the screen while you can.
+
+A portal is at the end of each level.  If you lose your head near 
+the end of the level, don't assume that you can make a run for the 
+portal.  You must have your head to proceed.
+
+By popular request, the game now saves at the beginning of each level.
+So, if you make it to a new level, you may start from that level once 
+you turn your GBA back on.  To erase the save, press L and R 
+simulataneously at the title screen.
+
+
+Emulators and GBA Hardware
+==========================
+
+This game has been tested and works fully in Visual Boy Advance and 
+on real GBA hardware.  For hardware, I used the Flash Advance Linker 
+Xtreme USB, 64 Megabit cart.  To obtain a cart (in North America),
+please visit:
+
+    http://www.gamegizmo.com
+
+Visit Visoly's website at:
+
+    http://www.visoly.com
+
+
+Sound System
+============
+
+The sound engine used in this game is non-commercial version of 
+Krawall Advance (http://mind.riot.org/krawall/).  It allows sounds 
+and music to be played.  All music and/or sounds are 
+copyright of the respective owners.
+
+To learn more about Krawall Advance, please visit the website at:
+
+    http://mind.riot.org/krawall
+
+
+Contact and Links
+=================
+
+For updates on this project, please visit:
+
+    http://www.seanreid.ca/project/WonkieGuy
+
+TileMax is extremely useful for making the graphics in this demo:
+
+    http://www.seanreid.ca/project/TileMax
+
+If you want to email me, my address is:
+
+    email@seanreid.ca
+
+My resume is located online at:
+
+    http://www.seanreid.ca/resource/sean_reid_resume.html

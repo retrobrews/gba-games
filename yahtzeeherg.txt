@@ -1,0 +1,138 @@
+********************************************************************************
+Herg's Yahtzee for Gameboy Advance
+Last updated 6/28/2003
+********************************************************************************
+If you have any comments, criticism, or suggestions, email me - herg@bigfoot.com
+********************************************************************************
+
+********************************************************************************
+Controls
+********************************************************************************
+R+L:            start new game
+start:          brings up options menu
+d-pad:          moves pointer
+B:              select/play dice
+A:              roll dice
+sel+start+A+B:  jump out to main menu (Pogoshell,FAW,LW,etc)
+sel+start:      awake from sleep mode
+
+Entering name for high scores
+_____________________________
+up/down:        change a letter
+right/left:     move to next/previous letter
+start:          store name and exit
+
+Selecting background color
+__________________________
+left/right:     selects color component to modify
+up/down:        adjusts the value
+To return to random color selection, decrease all colors to the lowest value
+
+********************************************************************************
+Link Transfer
+********************************************************************************
+1-Start the receiving Gameboy without a cartridge inserted and the 2P end of the
+  link cable connected.
+2-With the 1P end connected to the sending Gameboy, select Send Game Via Link.
+3-Once the transfer has finished, you can disconnect the cable.  The game and the
+  currently selected background are sent to a second Gameboy Advance and will 
+  remain in memory until the power is turned off.
+
+In order to use the "Get highscores" function, both GBAs must be running v0.4+,
+and the receiving GBA must be connected to the 1P end of the link cable.  Only
+the 1P GBA will get highscores, and if you want to trade both ways, you will
+have to reverse the cable and transfer again. 
+
+********************************************************************************
+Yahtzee Rules
+********************************************************************************
+On each turn you may roll up to 3 times, although you may stop after the 1st or 
+2nd roll. 
+
+Rolling: 
+
+First roll:  roll all 5 dice.  Set aside any "keepers".  You may stop now and 
+score this roll or roll again. 
+
+Second roll:  re-roll any or all dice you want.  Set aside any "keepers".  You 
+do not need to declare which combination you're rolling for.  You may stop now 
+and score this roll or roll again. 
+
+Third and final roll:  Re-roll any or all dice you want.  After your third roll, 
+you MUST fill in a box on the score card with a score or with a zero. 
+
+Scoring: 
+
+When you are finished rolling, decide which box to fill in on the score card.  
+There are 13 boxes on the score card.  You MUST fill in a box on each turn.  
+If you can't enter a score, you must enter a zero.  Fill in each box only once, 
+depending on your best scoring option. 
+
+The score card is divided into an upper section and a lower section.  Scoring 
+combinations are as follows: 
+  
+  Upper Section What to Score 
+Aces (Ones) Total of Aces only 
+Twos Total of Twos only 
+Threes Total of Threes only 
+Fours Total of Fours only 
+Fives Total of Fives only 
+Sixes Total of Sixes only 
+
+
+Your goal in the upper section is to score a total of at least 63 points to earn 
+a 35 point bonus. 
+  
+  Lower Section What to Score 
+3 of a Kind Total of all 5 dice 
+4 of a Kind Total of all 5 dice 
+Full House 25 points 
+Small Straight 30 points 
+Large Straight 40 points 
+Yahtzee 
+(5 of a Kind) 50 points 
+Chance Total of all 5 dice 
+
+
+Full House:  The dice show two of one number and three of another number. 
+
+Small Straight:  The dice show four numbers in sequence, 1 2 3 4, 2 3 4 5, 
+or 3 4 5 6. 
+
+Large Straight:  The dice show five numbers in sequence, 1 2 3 4 5, or 2 3 4 5 6. 
+
+Yahtzee:  The dice show five of a kind.  The first Yahtzee you enter in the Yahtzee 
+box is worth 50 points.  For each additional Yahtzee you roll, you earn a 100 point 
+bonus, and you score the roll in another box according to the Joker Rules. 
+
+If you roll a Yahtzee and have already placed a zero in the Yahtzee box, you do NOT 
+earn a Yahtzee bonus.  However, you must fill in one of the 13 boxes using the Joker 
+Rules. 
+
+Joker Rules: 
+
+    Score the total of all 5 dice in the appropriate box in the upper section. 
+
+    If the box in the upper section is already filled in, score in the lower section 
+as follows: 
+
+        3 of a Kind:  total of all 5 dice 
+        4 of a Kind:  total of all 5 dice 
+        Full House:  25 points 
+        Small Straight:  30 points 
+        Large Straight:  40 points 
+        Chance:  total of all 5 dice 
+
+Ending the Game: 
+
+Once all 13 category boxes are filled in, the game ends.  Add up the score as follows: 
+
+Upper Section:  add up the scores and enter the total in the Total Score box.  If the 
+total is 63 points or more, enter the 35 point bonus in the Bonus box.  Then enter the total in the Total box. 
+
+Lower Section:  add up the scores and enter the total in the Total of Lower Section box.  
+Add 100 points for each Yahtzee bonus check mark. 
+
+Grand Total:  add the upper section and lower section totals and enter the total in the 
+Grand Total box.  This is the score for the game. 
+  

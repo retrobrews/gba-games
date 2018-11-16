@@ -1,0 +1,6 @@
+Tetravex v1.0
+By Francois Pessaux
+
+Tetravex is a puzzle game like a 4-sided dominos. The aim is to send all the shapes from the lower-right grid to the upper-left one. Shapes can freely move in the lower area. 
+Conversely, in the upper grid, they are constrainted by a correct matching of numbers on each side. The lower-right area is then your pool, and the upper-left your aim. 
+Switching between the 2 areas is done using the L/R keys.

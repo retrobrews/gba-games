@@ -1,0 +1,4 @@
+TailGunner GBA v1.0
+By Gener Gabasa
+
+TailGunner GBA is a remake of the old Arcade classic with the same name. This remake has been coded by Gener Gabasa, using Visual HAM 2.80.

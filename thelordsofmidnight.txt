@@ -1,0 +1,86 @@
+The Lords Of Midnight
+by Mike Singleton
+Gameboy Advance version by Quirky
+
+http://www.geocities.com/quirky_2k1/
+email: quirky at zoom dot co dot uk
+
+For the original game plus maps, hints, info etc:
+visit www.worldofspectrum.org or www.icmark.com
+
+Version 1.4 May 21 2005
+============================
+
+GBA Controls
+-------------
+
+The Speccy controls were a bit 'unusual' and I've had to alter them a fair bit 
+to make the game playable with the GBA's d-pad and 6 buttons. Below is the list
+of controls, together with the 8-bit equivalents.
+
+Press Start after the loading screen to start the game. You begin as Luxor the
+Moonprince on the day of the Solstice standing at the Tower of the Moon.
+
+Movement and common controls
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Left, right - rotate on the spot. (equivalent to 1-8)
+Up          - move forwards.  (equivalent to Q)
+L, R        - select previous/next character. (N/A)
+A           - Think     (equivalent to R)
+B           - Select    (equivalent to M)
+down        - Choose    (equivalent to T)
+Select      - Bring the Night...  (equivalent to U)
+            - Press A to bring a new dawn  (equivalent to G)
+Start       - Save, load, etc     (equivalent to D or S)
+
+
+Choose, Select, Save/Load
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A           - Choose highlighted option / select highlighted character 
+              (equivalent to C, V, B, N, etc)
+B           - Look  (equivalent to E)
+            - also cancel on the Save/Load menu
+up, down    - change highlighted option (N/A)
+The following are not available on the Save/Load menu:
+left, right - cycle through Think, Choose, Select screens (equivalent to R, M, T)
+L, R        - select previous/next character. (N/A)
+
+Think
+~~~~~~
+A           - Think again   (equivalent to R)
+B           - Look          (equivalent to E)
+up          - Move forwards, then look  (equivalent to Q)
+left, right - cycle through Think, Choose, Select screens (equivalent to R, M, T)
+L, R        - select previous/next character. (N/A)
+
+
+Credits
+--------
+Chris Wild at http://www.icemark.com for such detailed info on the inner 
+workings of the original game.
+WinZ80 disassembler/debugger by Gerton Lunter.
+Forgotten for Visualboy Advance, which made debugging an absolute breeze.
+Big thanks to Paul Buck for his helpful feedback and bug reports.
+
+Version 1.1  
+=============
+bug fix - the tiredness descriptions for riders and warriors 
+were displayed the wrong way around.
+
+Version 1.2 
+=============
+Corruption of sprite tiles when several (>6) different types of 
+lord/creatures accumulated in a single location. 
+The Fey's forest advantage was set too small.
+
+Version 1.3 
+=============
+I really have fixed that graphics corruption problem this time! Honest.
+
+Version 1.4  
+=============
+Changed compiler to DevkitARM ( www.sourceforge.net/projects/devkitpro )
+Improved speed of terrain drawing slightly
+Added sun from C64 version
