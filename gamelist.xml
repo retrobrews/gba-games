@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <gameList>  
+   <game>
+     <path>./3weeksinparadise.gba</path>
+     <name>3 WEEKS IN PARADISE</name>
+     <desc>Based on a classic ZX Spectrum game from the 80&apos;s. This is a puzzle game. It requires some strange thinking to complete some of the puzzles. The idea is to utilise the scattered objects in certain ways with other objects and/or with scenery. As you complete parts of the puzzle, other items may appear or you may complete partof the puzzle. You need to complete 100% of the puzzles to free your wife (wilma) and son (herbert)and escape the island.</desc>
+     <image>./3weeksinparadise.png</image>
+     <rating>0</rating>
+     <releasedate>20030913T000000</releasedate>
+     <developer>Bootlegger</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>3 WEEKS IN PARADISE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./agbhack.bin</path>
+     <name>AGB HACK</name>
+     <desc>Game is based on RevivedHack 1.1, an adaptation of Don G. Kneller&apos;s PC Hack 3.61.</desc>
+     <image>./agbhack.png</image>
+     <rating>0</rating>
+     <releasedate>20070717T000000</releasedate>
+     <developer>Donnie Russell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>AGB HACK</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./agbrogue.bin</path>
+     <name>AGB ROGUE</name>
+     <desc>Game adapted from the 1985 IBM PC version of Rogue.</desc>
+     <image>./agbrogue.png</image>
+     <rating>0</rating>
+     <releasedate>20070805T000000</releasedate>
+     <developer>Donnie Russell II</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>AGB ROGUE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./anguna.gba</path>
+     <name>ANGUNA</name>
+     <desc>An alternative to the classic Legend of Zelda, featuring swords, booby traps, bow &amp; arrows, and battles with all sorts of enemies!</desc>
+     <image>./anguna.png</image>
+     <rating>0</rating>
+     <releasedate>20020204T000000</releasedate>
+     <developer>Nathan Tolbert, Chris Hildenbrand</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>ANGUNA</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./asteroidsb.gba</path>
+     <name>ASTEROIDS [BAGLEY]</name>
+     <desc>Shoot the asteroids and make them disappear! Asteroids clone by Jim Bagley.</desc>
+     <image>./asteroidsb.png</image>
+     <rating>0</rating>
+     <releasedate>20010410T000000</releasedate>
+     <developer>Jim Bagley</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>ASTEROIDS [BAGLEY]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./asteroidsp.bin</path>
+     <name>ASTEROIDS [PRINCE]</name>
+     <desc>A bunch of asteroids are floating around... Shoot them. With the occasional flying saucer coming around to kill you. The ship is always in center screen. When you thrust, everything around you moves instead. The background scrolls in the direction of your movement to help you see how fast your moving. Asteroids clone by Russ Prince.</desc>
+     <image>./asteroidsp.png</image>
+     <rating>0</rating>
+     <releasedate>20010410T000000</releasedate>
+     <developer>Russ Prince</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>ASTEROIDS [PRINCE]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./astrohawk.bin</path>
+     <name>ASTROHAWK</name>
+     <desc>Space shooter / Asteroids like game for GBA.</desc>
+     <image>./astrohawk.png</image>
+     <rating>0</rating>
+     <releasedate>20021231T000000</releasedate>
+     <developer>Paul Lay</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>ASTROHAWK</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./balle.gba</path>
+     <name>BALLE</name>
+     <desc>Balle is a breakout style game for GBA.</desc>
+     <image>./balle.png</image>
+     <rating>0</rating>
+     <releasedate>20041224T000000</releasedate>
+     <developer>Brunni</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BALLE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./battlepicross.gba</path>
+     <name>BATTLE PICROSS</name>
+     <desc>Picross is a puzzle game where you try to reveal a picture. The puzzle lies in the process of revealing the picture. To reveal the picture, you are given hints as to blocks of continuous pixels. Each block of pixels is listed by row and by column. You are to use these numbers to help you reveal the picture. The number hints are like clues in a crossword puzzle - hence the name Picross! Now, this game is different than similar types of picross games. There is a lower time limit in this game. However, you are allowed to use items that you collect to help reveal the puzzle. It is a more franctic game that causes you to think just a little faster than with other puzzle games. And so we have Battle Picross! CONTROLS: You mainly control the chizzel tool on the puzzle surface. You use the chizzel to to reveal the puzzle. To chizzel a part of the puzzle, position the tool accordingly, and then press the A button. If you know that a certain tile is not part of the puzzle, it is wise to mark it with an "X" so that you don&apos;t forget this fact. To do this, press the B button. Marking "X"s on the puzzle is not required to win the puzzle. It is only there to help you remember which tiles are not part of the picture. You can use items to help you reveal the picture. To do this, slide in your items window with the R button. While holding the R button, select the desired item with the cursor keys and press the A button. If you do not wish to use an item, just let go of the R button instead. You have to obtain items by completing puzzles.</desc>
+     <image>./battlepicross.png</image>
+     <rating>0</rating>
+     <releasedate>20031101T000000</releasedate>
+     <developer>Sean Reid</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BATTLE PICROSS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./blastarenaadvance.gba</path>
+     <name>BLAST ARENA ADVANCE</name>
+     <desc>Very professionally put together abstract/retro styled action game. The aim of Blast Arena Advance is to collect as many jittering squares as you can, while avoiding the shrapnel thrown out by the explosions.</desc>
+     <image>./blastarenaadvance.png</image>
+     <rating>0</rating>
+     <releasedate>20050531T000000</releasedate>
+     <developer>Mathew Carr</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BLAST ARENA ADVANCE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./blocktrap.gba</path>
+     <name>BLOCKTRAP</name>
+     <desc>Blocktrap is a small puzzle game in which you have to fight against blocks invading your territory from 3 directions. This version (the 3rd, numbered 1.0) offers numerous changes in the gameplay, with more special blocks, ability to store them and activate them explicitely (no more reserve like a stack), a scoring system much more appealing and sound effects.</desc>
+     <image>./blocktrap.png</image>
+     <rating>0</rating>
+     <releasedate>20041129T000000</releasedate>
+     <developer>Francois Pessaux</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BLOCKTRAP</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bridgeracer.gba</path>
+     <name>BRIDGE RACER</name>
+     <desc>An LCD (Game &amp; Watch Styie) game for the GBA in 2 colours - includes an oldskool intro also in 2 colours.</desc>
+     <image>./bridgeracer.png</image>
+     <rating>0</rating>
+     <releasedate>20040627T000000</releasedate>
+     <developer>Bootlegger</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BRIDGE RACER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bunnyxmas.gba</path>
+     <name>BUNNY XMAS</name>
+     <desc>A Tetris like game...</desc>
+     <image>./bunnyxmas.png</image>
+     <rating>0</rating>
+     <releasedate>20031112T000000</releasedate>
+     <developer>Shen Mansell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BUNNY XMAS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bustamove.bin</path>
+     <name>BUST A MOVE</name>
+     <desc>Full clone of the original Bust-A-Move (also known as Puzzle Bobble), made by Taito in 1994 for the Neo-Geo arcade system. The game is extremely faithful to the original in every respect. Contains 30 arcade levels in single player mode, and also included Link play with two modes of game play. The classic "Deathmatch" style of play, and a race mode which uses the single player boards where the first to clear the screen wins.</desc>
+     <image>./bustamove.png</image>
+     <rating>0</rating>
+     <releasedate>20020610T000000</releasedate>
+     <developer>Russ Prince</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BUST A MOVE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bytes.gba</path>
+     <name>BYTES</name>
+     <desc>Bytes is a snake game for Gameboy Advance. Eat dots and grow, avoid the wall and your own tail.</desc>
+     <image>./bytes.png</image>
+     <rating>0</rating>
+     <releasedate>20040701T000000</releasedate>
+     <developer>Ekid</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BYTES</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./castlemaster.gba</path>
+     <name>CASTLE MASTER</name>
+     <desc>This is a remake based on the 8 bit versions (Commodore 64 and Spectrum) of Castle Master. Some elements were taken from the Atari ST version too, though nothing too fancy.</desc>
+     <image>./castlemaster.png</image>
+     <rating>0</rating>
+     <releasedate>20040214T000000</releasedate>
+     <developer>Quirky</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CASTLE MASTER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./cccp.gba</path>
+     <name>CCCP</name>
+     <desc>CCCP stands for Crystal Clear Clone for Portable (devices). It&apos;s a clone of the puzzle Flash game "Crystal Clear"</desc>
+     <image>./cccp.png</image>
+     <rating>0</rating>
+     <releasedate>20080221T000000</releasedate>
+     <developer>Torlus</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CCCP</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./chaos.bin</path>
+     <name>CHAOS</name>
+     <desc>Based on the original 1985 Spectrum game by Julian Gollop</desc>
+     <image>./chaos.png</image>
+     <rating>0</rating>
+     <releasedate>20020525T000000</releasedate>
+     <developer>Quirky</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CHAOS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./chaosthebattleofwizards.gba</path>
+     <name>CHAOS - THE BATTLE OF WIZARDS</name>
+     <desc>Chaos is a tactical combat video game based on the 1985 Spectrum game &apos;Chaos - The Battle of Wizards&apos;. Up to 8 wizards compete in a turn-based battle to the death, involving elves, dragons, fire, lightning and the odd Gooey Blob. The last wizard standing is the winner.</desc>
+     <image>./chaosthebattleofwizards.png</image>
+     <rating>0</rating>
+     <releasedate>20020525T000000</releasedate>
+     <developer>Quirky</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CHAOS - THE BATTLE OF WIZARDS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./chipadvance.gba</path>
+     <name>CHIP ADVANCE</name>
+     <desc>Great remake of the classic Atari Lynx game Chips Challenge.</desc>
+     <image>./chipadvance.png</image>
+     <rating>0</rating>
+     <releasedate>20050530T000000</releasedate>
+     <developer>Alekmaul</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CHIP ADVANCE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./chocoboworlddeluxe.gba</path>
+     <name>CHOCOBO WORLD DELUXE</name>
+     <desc>Save our friend Mog from Demon King!</desc>
+     <image>./chocoboworlddeluxe.png</image>
+     <rating>0</rating>
+     <releasedate>20080321T000000</releasedate>
+     <developer>Davgav</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CHOCOBO WORLD DELUXE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./clayshooter.gba</path>
+     <name>CLAY SHOOTER</name>
+     <desc>This is a clay pigeon shooting simulator game.</desc>
+     <image>./clayshooter.png</image>
+     <rating>0</rating>
+     <releasedate>20010302T000000</releasedate>
+     <developer>Jim Bagley</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CLAY SHOOTER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./codenamehacker.gba</path>
+     <name>CODENAME HACKER</name>
+     <desc>A cool gba game where you collect computer chips, avoid enemies and use obstacles to navigate through the motherboard!</desc>
+     <image>./codenamehacker.png</image>
+     <rating>0</rating>
+     <releasedate>20070915T000000</releasedate>
+     <developer>Alekmaul, Lobo, Daydream</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CODENAME HACKER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./collisioncourse.bin</path>
+     <name>COLLISION COURSE</name>
+     <desc>Press START to begin a game of Collision Course. Rotate your white triangular ship counterclockwise by pressing the left side of the control pad, and right to rotate it clockwise. Apply forward thrust to your ship by pressing the top side of the control pad. Your ship decelerates when thrust is not applied. Press the A button to fire your weapon at the green rocks floating around your ship. Holding down the button causes your weapon to fire repeatedly. Each large rock, when hit by your weapon, fragments into two medium-sized rocks (20 points each), and each medium-sized rock into two small rocks (50 points each). Small rocks disintegrate completely (100 points each). After all the rocks are destroyed, more will appear after a few seconds in the areas indicated by the red arrows. Maneuver your ship out of the hazardous areas before they appear. At random times, a violet UFO will appear and begin shooting at rocks and your ship. Destroying it is worth 500 points. If your ship crashes or is destroyed by the UFO's weapon, you have two reserve ships ready to replace it. For each 10,000 points you earn you will be rewarded with a new reserve ship. If your ship is destroyed, and you have no remaining ships, the game is over.</desc>
+     <image>./collisioncourse.png</image>
+     <rating>0</rating>
+     <releasedate>20080916T000000</releasedate>
+     <developer>Donnie Russell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>COLLISION COURSE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./cosmic.gba</path>
+     <name>COSMIC SMASH CLONE</name>
+     <desc>This is a clone of the Sega game Cosmic Smash.</desc>
+     <image>./cosmic.png</image>
+     <rating>0</rating>
+     <releasedate>20020401T000000</releasedate>
+     <developer>Jim Bagley</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>COSMIC SMASH CLONE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./crystalclearclone.gba</path>
+     <name>CRYSTAL CLEAR CLONE</name>
+     <desc>Match a minimum of 5, same colored crystals to clear them off the board. BROKEN crystals explode everything around them, when cleared. When moved, HEART crystals change the color of nearby pieces. LOCKED Crystals cannot be moved. Good Luck!</desc>
+     <image>./crystalclearclone.png</image>
+     <rating>0</rating>
+     <releasedate>20080221T000000</releasedate>
+     <developer>Torlus</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CRYSTAL CLEAR CLONE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./cyclone.bin</path>
+     <name>CYCLONE</name>
+     <desc>You are the pilot of a rescue helicopter in the aftermath of a particularly nasty tropical storm. Your mission (yo&apos;ve already accepted it) is to fly around the archipelago collecting all the medical supplies found in the little crates and then bring them all back to Base.</desc>
+     <image>./cyclone.png</image>
+     <rating>0</rating>
+     <releasedate>20021120T000000</releasedate>
+     <developer>Quirky</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CYCLONE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./cyler.gba</path>
+     <name>CYLER</name>
+     <desc>Cyler is a simple shooter game for Gameboy Advance.</desc>
+     <image>./cyler.png</image>
+     <rating>0</rating>
+     <releasedate>20040807T000000</releasedate>
+     <developer>Gener Gabasa</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CYLER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./doomdarksrevenge.gba</path>
+     <name>DOOMDARKS REVENGE</name>
+     <desc>Doomdark&apos;s Revenge is a sequel to The Lords of Midnight.</desc>
+     <image>./doomdarksrevenge.png</image>
+     <rating>0</rating>
+     <releasedate>20061126T000000</releasedate>
+     <developer>Quirky</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>DOOMDARKS REVENGE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./elevator.gba</path>
+     <name>ELEVATOR</name>
+     <desc>Dodge the elevators while crossing the screen. Get to the top of the screen and advance to the next level.</desc>
+     <image>./elevator.png</image>
+     <rating>0</rating>
+     <releasedate>20030817T000000</releasedate>
+     <developer>Shen Mansell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>ELEVATOR</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./factorybots.gba</path>
+     <name>FACTORY BOTS</name>
+     <desc>The purpose of the game is to control the movement of robots on a factory floor, and get them to take raw material from a Dispenser, put them in a Processor, then take the processed material and drop it into a Collector. This is accomplished by placing instructions on the factory floor grid, and when a robot passes over the instruction, it obeys it. Instructions including turning four different directions, and performing an action. The action that is performed is dependent on what is nearby, this will either be picking up a nearby object, dropping a carried object, or nothing; if nothing applies. It&apos;s also possible to introduce additional robots to a stage.</desc>
+     <image>./factorybots.png</image>
+     <rating>0</rating>
+     <releasedate>20090531T000000</releasedate>
+     <developer>Nicholas Scheltema</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>FACTORY BOTS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./fredfirefighter.gba</path>
+     <name>FRED FIREFIGHTER</name>
+     <desc>Control the fireman and make sure that you kill the fire before it takes over!</desc>
+     <image>./fredfirefighter.png</image>
+     <rating>0</rating>
+     <releasedate>20040704T000000</releasedate>
+     <developer>Lord Graga</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>FRED FIREFIGHTER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./frogtris.gba</path>
+     <name>FROGTRIS</name>
+     <desc>A Tetris like game...</desc>
+     <image>./frogtris.png</image>
+     <rating>0</rating>
+     <releasedate>20030918T000000</releasedate>
+     <developer>Shen Mansell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>FROGTRIS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./gbacards.gba</path>
+     <name>GBA CARDS</name>
+     <desc>BlackJack for GBA. GBA Cards was intended to become a mulit-card-game cartrdige.</desc>
+     <image>./gbacards.png</image>
+     <rating>0</rating>
+     <releasedate>20010614T000000</releasedate>
+     <developer>Flavor</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>GBA CARDS</genre>
+     <players>1</players>
+   </game> 
+   <game>
+     <path>./gbatactics.gba</path>
+     <name>GBA TACTICS</name>
+     <desc>The goal of this game is to defeat all the units of the other player moving them by turns.</desc>
+     <image>./gbatactics.png</image>
+     <rating>0</rating>
+     <releasedate>20011024T000000</releasedate>
+     <developer>Davgav</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>GBA TACTICS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./gorf.gba</path>
+     <name>GORF</name>
+     <desc>Gorf for Gameboy Advance is a remake of Gorf made by Jess Ragan.Gorf&apos;s objective is simply to destroy all enemies. The player controls a spaceship that can move slowly left, right, up and down.</desc>
+     <image>./gorf.png</image>
+     <rating>0</rating>
+     <releasedate>20060430T000000</releasedate>
+     <developer>Jess Ragan</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>GORF</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./hexavirus.gba</path>
+     <name>HEXAVIRUS</name>
+     <desc>The bottom left virus is activated. Every virus of the same color it touches becomes activated too. You can change the activated color by use the left and right keys. Activate all viruses in less than the desired moves, and you win !</desc>
+     <image>./hexavirus.png</image>
+     <rating>0</rating>
+     <releasedate>20070912T000000</releasedate>
+     <developer>Alelmaul, Mollusk</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>HEXAVIRUS</genre>
+     <players>1</players>
+   </game> 
+   <game>
+     <path>./hierogyphicman.gba</path>
+     <name>HIEROGLYPHIC MAN</name>
+     <desc>Collect coins and avoid cannons and fire.</desc>
+     <image>./hierogyphicman.png</image>
+     <rating>0</rating>
+     <releasedate>20030916T000000</releasedate>
+     <developer>Shen Mansell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>HIEROGLYPHIC MAN</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./impact.gba</path>
+     <name>IMPACT</name>
+     <desc>Space impact clone for GBA. Game happens in the space, the user is given a space craft to fight the enemies and in the final of the level he faces the boss of the level.</desc>
+     <image>./impact.png</image>
+     <rating>0</rating>
+     <releasedate>20040806T000000</releasedate>
+     <developer>Gener Gabasa</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>IMPACT</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./jetpack2.gba</path>
+     <name>JETPACK 2</name>
+     <desc>The point of the game is just to make the player have fun. Here's the basics: First the title screen shows and you press start to goto the setup screen. Then you pick the number of enemies from 0-4, these enemies don't fight each other, they only make the game harder by attacking you.</desc>
+     <image>./jetpack2.png</image>
+     <rating>0</rating>
+     <releasedate>20040501T000000</releasedate>
+     <developer>Mukunda Johnson</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <players>1</players>
+     <genre>JETPACK 2</genre>
+   </game>
+   <game>
+     <path>./jumpingbarnabe.gba</path>
+     <name>JUMPING BARNABE</name>
+     <desc>Barnabe must retreive the great poem of his family 'THE BALLAD OF JUMPING BARNABE', which is lost in lots of locations. Using the D pad and A button, the idea is to reach the top of the both screens.</desc>
+     <image>./jumpingbarnabe.png</image>
+     <rating>0</rating>
+     <releasedate>20070913T000000</releasedate>
+     <developer>Alekmaul</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>JUMPING BARNABE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./jumpingjim.gba</path>
+     <name>JUMPING JIM</name>
+     <desc>Jumping Jim is a platform game, originally on the Sinclair ZX Spectrum named Jumping Jack game in 1983. Using the keys and A, the idea is to reach the top of the screen. Each screen consists of 6 floors, and Jim has to jump throught the (moving) holes in these floors to progress.</desc>
+     <image>./jumpingjim.png</image>
+     <rating>0</rating>
+     <releasedate>20050714T000000</releasedate>
+     <developer>Alekmaul</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>JUMPING JIM</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./klanwars.gba</path>
+     <name>KLAN WARS</name>
+     <desc>A strategic "cult" game. You now have 300$ to buy a "klan", which may maximaly consist of 15 members. The controls ingame are simple. Just move the cursor around with the D-PAD and press A the choose a troop. The troop will move to the next spot that is selected if you press A again, but only if it has enough move, or enough range to fire within.</desc>
+     <image>./klanwars.png</image>
+     <rating>0</rating>
+     <releasedate>20020301T000000</releasedate>
+     <developer>Lord Graga</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>KLAN WARS</genre>
+     <players>1</players>
+   </game>     
+   <game>
+     <path>./laserchess.bin</path>
+     <name>LASER CHESS</name>
+     <desc>Although not exactly like "real" Chess, this game has many strategic elements like chess, with the addition of a LASER BEAM!!!</desc>
+     <image>./laserchess.png</image>
+     <rating>0</rating>
+     <releasedate>20010712T000000</releasedate>
+     <developer>Russ Prince</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>LASER CHESS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./lemmings.gba</path>
+     <name>LEMMINGS</name>
+     <desc>This is a remake of Lemmings. All graphics have been "borrowed" from the original.</desc>
+     <image>./lemmings.png</image>
+     <rating>0</rating>
+     <releasedate>20050414T000000</releasedate>
+     <developer>Zapf Bandit</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>LEMMINGS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./llamaboost.gba</path>
+     <name>LLAMABOOOST</name>
+     <desc>Ever played LLamatron? Then this is for you! Shoot everything that moves and collect powerups to gain more strenght.</desc>
+     <image>./llamaboost.png</image>
+     <rating>0</rating>
+     <releasedate>20040802T000000</releasedate>
+     <developer>Lord Graga</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>LLAMABOOOST</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./looped.gba</path>
+     <name>LOOPED</name>
+     <desc>The idea behind the game is to create concentric loops using the random pieces given. The pieces are right angles top left/top right/bottom left/bottom right and horizontal and vertical pieces. A further random piece that can appear is a star: this piece can be used to remove any item you have placed on the gameboard. You can not however remove a map screen block. If you do not wish to utilise a star piece simply move the cursor over a map board piece or a blank area and use the item.</desc>
+     <image>./looped.png</image>
+     <rating>0</rating>
+     <releasedate>20040430T000000</releasedate>
+     <developer>Jason Bullough</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>LOOPED</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./looptheloop.gba</path>
+     <name>LOOP THE LOOP</name>
+     <desc>Loop the Loop is a A crazy snake type game. Eat the fruit and draw a loop around everything else.</desc>
+     <image>./looptheloop.png</image>
+     <rating>0</rating>
+     <releasedate>20040221T000000</releasedate>
+     <developer>Shen Mansell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>LOOP THE LOOP</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./matrixrunner.gba</path>
+     <name>MATRIX RUNNER</name>
+     <desc>This game is inspired by William Gibson's Neuromancer book and it's sequels with a bit of influence from the likewise inspired RPG, Shadowrun. You play the role of a hacker in the future, a 'decker', jacking into the global computer network 'The Matrix' with a direct brain link that enables you to experience the computer network as a virtual reality.</desc>
+     <image>./matrixrunner.png</image>
+     <rating>0</rating>
+     <releasedate>20070304T000000</releasedate>
+     <developer>Nicholas Scheltema</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>MATRIX RUNNER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./memorymuncha.gba</path>
+     <name>MEMORY MUNCHA</name>
+     <desc>It's simple to play, ingame instructions included, go figure :P</desc>
+     <image>./memorymuncha.png</image>
+     <rating>0</rating>
+     <releasedate>20031103T000000</releasedate>
+     <developer>Lord Graga</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>MEMORY MUNCHA</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./metalwarrior4.gba</path>
+     <name>METAL WARRIOR 4: AGENTS OF METAL</name>
+     <desc>In the violent near future, there existed a war/thrash metal band CYBERPRIEST, whose music brought strength and hope to the hessians struggling from day to day. You are asked to assume the control of IAN on his journey to the unknown. As the game begins he is his usual self but an initiation and transformation into Agent form awaits..</desc>
+     <image>./metalwarrior4.png</image>
+     <rating>0</rating>
+     <releasedate>20070222T000000</releasedate>
+     <developer>Covert Bitops</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>METAL WARRIOR 4: AGENTS OF METAL</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./monochromancy.bin</path>
+     <name>MONOCHROMANCY</name>
+     <desc>You play the Defender, and you must stop the Flying saucer from dropping the big energy balls on the passing train with your laser sword on every second standing position. On the other standing positions you get the chance to shoot at the Flying saucer, and your other task is to shoot it down.</desc>
+     <image>./monochromancy.png</image>
+     <rating>0</rating>
+     <releasedate>20040705T000000</releasedate>
+     <developer>Nicholas Scheltema</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>MONOCHROMANCY</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./moshpit.gba</path>
+     <name>MOSHPIT</name>
+     <desc>Explore random maps, pick up money by walking on it and kill monsters by walking into them!</desc>
+     <image>./moshpit.png</image>
+     <rating>0</rating>
+     <releasedate>20030819T000000</releasedate>
+     <developer>Shen Mansell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>MOSHPIT</genre>
+     <players>1</players>
+   </game> 
+   <game>
+     <path>./negativespace.gba</path>
+     <name>NEGATIVE SPACE</name>
+     <desc>Negative Space is a homebrew puzzle/platform game for the NDS, based on the concept of negative space. The whole game contains only two colors: black and white. The player controls two 'blob' characters: the white blob moves in the black space, and the black blob in the white space. That's why, empty space for one blob represents solid ground and walls for the other. The aim of the game is for each blob to capture its corresponding flag. In order to do so, the player can draw directly on the touch screen in black or white and thus modify the levels and create new paths and platforms. But keep in mind that a new path for one blob means new walls for the other!</desc>
+     <image>./negativespace.png</image>
+     <rating>0</rating>
+     <releasedate>20081219T000000</releasedate>
+     <developer>Gener Gabasa, Mia</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>NEGATIVE SPACE</genre>
+     <players>1</players>
+   </game> 
+   <game>
+     <path>./ninjasack.gba</path>
+     <name>NINJA SACK</name>
+     <desc>The goal in NINJA SACK is to defeat lots of Ninjas and gain points. A tiny fighting game.</desc>
+     <image>./ninjasack.png</image>
+     <rating>0</rating>
+     <releasedate>20040429T000000</releasedate>
+     <developer>Lord Graga</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>NINJA SACK</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pacrun.gba</path>
+     <name>PAC RUN</name>
+     <desc>Oh no! The tables have been turned on good old Pac. All of the ghosts have been covered in toxic pac-tar and are now after our ball shaped hero. Even though Pac is armed with teeth after a visit to the dentist, they serve him no purpose. There is no escape. See how long you can survive and try to set a high score. The only thing Pac is able to do to prolong his life is find the bottles of Pac Beer floating around in space. Each time a ghost hits pac, he loses 1 pac-health. Drinking a bottle of Pac-beer will restore 1 pac-health. In the event you need to make a quick escape there is also a warp bucket at the bottom middle of the screen that will use advanced pac teleport technology to warp you to one of the 4 corners of the screen. Use at your own risk.</desc>
+     <image>./pacrun.png</image>
+     <rating>0</rating>
+     <releasedate>20050307T000000</releasedate>
+     <developer>Jake Reardon</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>PAC RUN</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./paperscissorrocks.gba</path>
+     <name>PAPER SCISSOR ROCKS</name>
+     <desc>Paper, Scissor, Rocks is just a basic game where you play against the CPU trying to get the better hand. It's an old classic tool for deciding on trivial matters, as well as fun past time.</desc>
+     <image>./paperscissorrocks.png</image>
+     <rating>0</rating>
+     <releasedate>20070915T000000</releasedate>
+     <developer>Stian Hole</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>PAPER SCISSOR ROCKS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pnakys.bin</path>
+     <name>PNAKYS</name>
+     <desc>Pnakys is a "puzzle game", which gameplay is inspired by an old arcade game called Pnickies, which gameplay is itself a mix between Tetris and Bust-a-Move :) Basically you have to make groups of balls of the same color, then explode them by having two "special" balls (balls that contain a star) within a group. Exploding large groups will give you big score increases.</desc>
+     <image>./pnakys.png</image>
+     <rating>0</rating>
+     <releasedate>20031028T000000</releasedate>
+     <developer>Torlus</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>PNAKYS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pushit.gba</path>
+     <name>PUSH-IT</name>
+     <desc>This is a simple puzzle game whereby you must remove all the available marbles from the game arena. To remove marbles, line up at least 3 of the same type. The marbles can be lined up vertical, horizontally, or diaganolly. After removing marbles if you have either 1 or 2 of that particular type left on the game arena it is then impossible to complete the level so the game will restart that level after deducting one live.</desc>
+     <image>./pushit.png</image>
+     <rating>0</rating>
+     <releasedate>20031103T000000</releasedate>
+     <developer>Bootlegger</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>PUSH-IT</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./santassweatshop.gba</path>
+     <name>SANTA&apos;S SWEATSHOP</name>
+     <desc>A Christmas themed action/puzzle game for your GBA. Santa&apos;s workshop is at full production and you need to sort and pack the gifts that the elves throw to you. 5 challenge modes have been created that vary the gameplay parameters.</desc>
+     <image>./santassweatshop.png</image>
+     <rating>0</rating>
+     <releasedate>20060102T000000</releasedate>
+     <developer>Sumiguchi</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>SANTA&apos;S SWEATSHOP</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./shapes.gba</path>
+     <name>SHAPES</name>
+     <desc>Shapes is a Bejeweled clone for GBA by Gener Gabasa, using Visual HAM 2.80.</desc>
+     <image>./shapes.png</image>
+     <rating>0</rating>
+     <releasedate>20081106T000000</releasedate>
+     <developer>Gener Gabasa</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>SHAPES</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./snakeinthegrass.gba</path>
+     <name>SNAKE IN THE GRASS</name>
+     <desc>Snake clone game.</desc>
+     <image>./snakeinthegrass.png</image>
+     <rating>0</rating>
+     <releasedate>20030902T000000</releasedate>
+     <developer>Shen Mansell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>SNAKE IN THE GRASS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./spout.gba</path>
+     <name>SPOUT</name>
+     <desc>The aim is to move the small square without making collisions with pixels on the screen, easy ??? Try it, you will see :D !</desc>
+     <image>./spout.png</image>
+     <rating>0</rating>
+     <releasedate>20060625T000000</releasedate>
+     <developer>Alekmaul</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>SPOUT</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./superhappy.gba</path>
+     <name>SUPER HAPPY BUNNY EX [X-MAS EDITION]</name>
+     <desc>Put four equal shapes together to get them disappear.</desc>
+     <image>./superhappy.png</image>
+     <rating>0</rating>
+     <releasedate>20011204T000000</releasedate>
+     <developer>Shen Mansell</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>SUPER HAPPY BUNNY EX [X-MAS EDITION]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./superwings.gba</path>
+     <name>SUPER WINGS</name>
+     <desc>Use the D-Pad to steer your jet to avoid the flashy bullet thingies. Press B to fire at enemies. Collect Powerups (the "P" things that fly around) to strengthen your firepower. Press A to launch a big missile that blows up lots of stuff. It also makes you invulnerable for a short period. You will start with 2 of these with each life. The "B" pickups will supply you with an extra missile. If you touch a bullet then you will explode and lose a life! If you have no more extra lives, (shown in top-left/right corner) the game will end. You may continue from the beginning of the level (but you lose your score).</desc>
+     <image>./superwings.png</image>
+     <rating>0</rating>
+     <releasedate>20080310T000000</releasedate>
+     <developer>Mukunda Johnson</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>SUPER WINGS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./tailgunner.gba</path>
+     <name>TAILGUNNER</name>
+     <desc>TailGunner GBA is a remake of the old Arcade classic with the same name.</desc>
+     <image>./tailgunner.png</image>
+     <rating>0</rating>
+     <releasedate>20081205T000000</releasedate>
+     <developer>Gener Gabasa</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>TAILGUNNER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./thelordsofmidnight.gba</path>
+     <name>THE LORDS OF MIDNIGHT</name>
+     <desc>The Lords Of Midnight is a D-Pad friendly remake of the strategy classic game by Mike Singleton.</desc>
+     <image>./thelordsofmidnight.png</image>
+     <rating>0</rating>
+     <releasedate>20050528T000000</releasedate>
+     <developer>Quirky</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>THE LORDS OF MIDNIGHT</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./timewalker.gba</path>
+     <name>TIME WALKER</name>
+     <desc>Time Walker is a action/adventure game.</desc>
+     <image>./timewalker.png</image>
+     <rating>0</rating>
+     <releasedate>20040807T000000</releasedate>
+     <developer>Gener Gabasa</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>TIME WALKER</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./tronlordgraga.gba</path>
+     <name>TRON [LORD GRAGA]</name>
+     <desc>Extremly simple Tron game, without scoring.</desc>
+     <image>./tronlordgraga.png</image>
+     <rating>0</rating>
+     <releasedate>20030321T000000</releasedate>
+     <developer>Lord Graga</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>TRON [LORD GRAGA]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./waimanu.gba</path>
+     <name>WAIMANU - GRINDING BLOCK ADVENTURE</name>
+     <desc>A puzzle where you need to smash blocks into your enemies. Push blocks around in 32 levels to kill the Wekas.</desc>
+     <image>./waimanu.png</image>
+     <rating>0</rating>
+     <releasedate>20130704T000000</releasedate>
+     <developer>Sverx</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>WAIMANU - GRINDING BLOCK ADVENTURE</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./wonkieguy.gba</path>
+     <name>WONKIE GUY</name>
+     <desc>This gameboy advance game is already installed on the retrospex 32 console! A winner of a GBAX coding competition.</desc>
+     <image>./wonkieguy.png</image>
+     <rating>0</rating>
+     <releasedate>20030307T000000</releasedate>
+     <developer>Sean Reid</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>WONKIE GUY</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./yahtzeeherg.gba</path>
+     <name>YAHTZEE [HERG]</name>
+     <desc>On each turn you may roll up to 3 times, although you may stop after the 1st or 2nd roll. Rolling: First roll: roll all 5 dice. Set aside any "keepers". You may stop now and score this roll or roll again. Second roll: re-roll any or all dice you want. Set aside any "keepers". You do not need to declare which combination you're rolling for. You may stop now and score this roll or roll again. Third and final roll: Re-roll any or all dice you want. After your third roll, you MUST fill in a box on the score card with a score or with a zero.</desc>
+     <image>./yahtzeeherg.png</image>
+     <rating>0</rating>
+     <releasedate>20030627T000000</releasedate>
+     <developer>Herg</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>YAHTZEE [HERG]</genre>
+     <players>1-2</players>
+   </game>
+ </gameList>
