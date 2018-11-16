@@ -1,2 +1,84 @@
 # gba-games
-Homebrew Game Boy Advance games collection 
+Homebrew Game Boy Advance games:
+
+- 3 WEEKS IN PARADISE<br />
+- AGB HACK<br />
+- AGB ROGUE<br />
+- ANGUNA<br />
+- ASTEROIDS [BAGLEY]<br />
+- ASTEROIDS [PRINCE]<br />
+- ASTROHAWK<br />
+- BALLE<br />
+- BATTLE PICROSS<br />
+- BLAST ARENA ADVANCE<br />
+- BLOCKTRAP<br />
+- BRIDGE RACER<br />
+- BUNNY XMAS<br />
+- BUST A MOVE<br />
+- BYTES<br />
+- CASTLE MASTER<br />
+- CCCP<br />
+- CHAOS<br />
+- CHAOS - THE BATTLE OF WIZARDS<br />
+- CHIP ADVANCE<br />
+- CHOCOBO WORLD DELUXE<br />
+- CLAY SHOOTER<br />
+- CODENAME HACKER<br />
+- COLLISION COURSE<br />
+- COSMIC SMASH CLONE<br />
+- CRYSTAL CLEAR CLONE<br />
+- CYCLONE<br />
+- CYLER<br />
+- DOOMDARKS REVENGE<br />
+- ELEVATOR<br />
+- FACTORY BOTS<br />
+- FRED FIREFIGHTER<br />
+- FROGTRIS<br />
+- GBA CARDS<br />
+- GBA TACTICS<br />
+- GORF<br />
+- HEXAVIRUS<br />
+- HIEROGLYPHIC MAN<br />
+- IMPACT<br />
+- JETPACK 2<br />
+- JUMPING BARNABE<br />
+- JUMPING JIM<br />
+- KLAN WARS<br />
+- LASER CHESS<br />
+- LLAMABOOOST<br />
+- LOOP THE LOOP<br />
+- LOOPED<br />
+- Mario Demo<br />
+- MATRIX RUNNER<br />
+- MEMORY MUNCHA<br />
+- METAL WARRIOR 4: AGENTS OF METAL<br />
+- MONOCHROMANCY<br />
+- MOSHPIT<br />
+- NEGATIVE SPACE<br />
+- NINJA SACK<br />
+- PAC RUN<br />
+- PAPER SCISSOR ROCKS<br />
+- PNAKYS<br />
+- PUSH-IT<br />
+- S WORLD 3<br />
+- SANTA'S SWEATSHOP<br />
+- SHAPES<br />
+- SNAKE IN THE GRASS<br />
+- Sonic for GBA<br />
+- SPOUT<br />
+- SUPER HAPPY BUNNY EX [X-MAS EDITION]<br />
+- SUPER WINGS<br />
+- TAILGUNNER<br />
+- TETRAVEX<br />
+- TETRIGRAM<br />
+- THE LORDS OF MIDNIGHT<br />
+- TIME WALKER<br />
+- TRON [LORD GRAGA]<br />
+- WAIMANU - GRINDING BLOCK ADVENTURE<br />
+- WONKIE GUY<br />
+- YAHTZEE [HERG]<br />
+
+
+- *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
+
+- *** This README is part of https://github.com/retrobrews/ project. ***
