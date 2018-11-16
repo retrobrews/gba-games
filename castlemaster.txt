@@ -1,0 +1,50 @@
+Castle Master 
+
+
+"Freescape" from the Spectrum and Commodore 64
+versions of Castle Master, Castle Master 2, Driller 
+and Total Eclipse.
+
+Additional material by Richard Quirk.
+
+The original Freescape code is (C) Incentive 1986-1992.
+This version re-engineered in C by Richard Quirk, 2003
+
+email: <quirky at zoom.co.uk>
+
+
+GBA Controls:
+
+D-pad = move forwards, back and rotate
+A = shoot
+B = interact/activate
+Select = change walk mode, with L toggles the opposite way
+Start = pause
+L + D-pad up/down = look up and down
+L + R = U turn
+L (double tap) = Look forwards.
+
+
+on pause screen:
+
+A - select
+B - return to game
+L/R - cycle through keys collected
+
+For more instructions on gameplay and stuff, see World of Spectrum:
+
+http://www.worldofspectrum.org/infoseek.cgi
+
+
+Loading and Saving:
+
+Pause the game. Select LOAD or SAVE.
+
+There's only 1 save slot, so be careful not to overwrite your last position!
+
+
+https://sites.google.com/site/gbaremakes/home/games/castlemaster
+
+
+
+

@@ -1,0 +1,164 @@
+Codename Hacker GBA
+--------------------------------------------------------------------------------
+CODE   : Alekmaul
+GFX    : Lobo, some map parts are from Daydream
+
+ADAPTED FROM : Codename Hacker from Alekmaul
+
+You can find its topic here :
+http://www.portabledev.com/pages/ds/jeuxdev.-perso/codename-hacker.php
+
+
+To join me, send a mail here:
+alekmaul@portabledev.com
+
+Codename Hacker GBA Update and GBA & NDS Stuff/Game about developpment can be found in 
+PORTABLENINT CODING ZONE: http://www.portabledev.com/
+
+Story : 
+--------------------------------------------------------------------------------
+Codename Hacker is a puzzle game, originally from the Atari Lynx.
+
+Chip would do anything for Melinda the Mental Marvel. More than anything because 
+he wanted to join Melinda's exclusive computer club - the Bit Busters. So you can 
+imagine how Chip felt when Melinda sat down next to him in the school cafeteria 
+and offered him membership... on one condition.
+
+Take control of Chip as he does some heavy interfacing with a few interesting 
+puzzles. Melinda will monitor your progress as you enter and work your way 
+through 149 levels of challenging maze-like paths and puzzles. Once you accept 
+the challenge, there's no escape. Monsters, traps and the ticking of the clock
+all conspire to delete you before a level is completed.
+
+You must ram blocks of soil together to create bridges over water traps, or use 
+them as buffers against cherry bombs. Invisible partitions will impede your 
+progress. Coloured keys will open doors that kead to other keys that will open 
+still more doors!
+To make it through, you must keep puzzle sequences stored in your memory.
+
+Most levels have a specific number of chips that you must collect before you can 
+progress to the next level. Sometimes you must snatch those chips from under the 
+very noses of deadly bugs who are just aching to take a byte out of you!
+
+Well Chip, are you still up for the challenge? You can't get that Bit-Busters 
+T-shirt out of your system, can you? OK buddy, make tracks for level one of 
+Chip's Challenge!
+
+Instructions:  
+--------------------------------------------------------------------------------
+You have to collect a set amount of chips on every level,not necessarily all of 
+them. In your path are several puzzle parts :
+
+TRAPS must be disarmed before you can pass through them. There are various sorts 
+of traps. For example, some hold you prisoner until your time runs out, while 
+others destroy  you as soon as you step on them. You can disarm traps with 
+strategic placement of dirt blocks.
+
+FORCE FLOOR TRAPS [Conveyor belts] propel you with lightning speed from one area 
+to another without allowing you to stop. Sometimes you can use this force to 
+propel you to a desired location, however most of the time you will need to 
+collect a magnet to neutralise the effect.
+
+FIRE TRAPS are impassible bonfires laid out to block your progress. Use a fire 
+shield to walk through fire traps.
+
+WATER TRAPS can be crossed in two ways. Either build a bridge of dirt blocks or 
+have a water shield in your inventory.
+
+ICE TRAPS are slippery obstacles that make you slide right past your goal. Cleats 
+are required to be able to walk over ice traps.
+
+MONSTERS want to destroy you and will show no mercy. One touch from a monster and 
+you'll cash in your chips.
+
+TANKS block the way through crucial paths in some levels. Tanks are always linked 
+to trip buttons, so the way around them is to activate the correct trip button so 
+they move out of your way.
+
+THIEVES. Touching a thief wipes your inventory of all items. Make sure you use the 
+tools you need to collect microchips before trying to pass a thief.
+
+TELEPORT SQUARES move you to another location in the level. Some squares teleport 
+you in the direction you were facing when you stepped on them. Others teleport you 
+in random directions. Beware! if you step on the only teleport square that is
+accessible, you will be trapped.
+
+TOGGLE BLOCKS are outlined with broken coloured lines. These blocks can be solid 
+or transparent. When the toggle block is solid, you cannot pass through. These 
+blocks are linked to trip buttons. When you activate a trip button, the toggle 
+blocks linked to it will switch to the other stated (Solid or transparent).
+
+MICROCHIP SOCKETS are special objects found on most levels. You must pass through 
+a microchip socket to reach the Exit Square, but only after you have collected the 
+required number of microchips for that level.
+
+CLONE MACHINES discharge fireballs, dirt blocks and other items. Most clone 
+machines are linked to trip buttons. If you wish to start/stp a clone machine, 
+activate the linked trip button.
+
+BLUE BLOCKS can be real walls or just an illusion. To figure out which a particular 
+block is, try to pass through it. If it is an illusion, it will disappear.
+
+Helpfull items :
+--------------------------------------------------------------------------------
+KEYS open doors. Pick them up to add them to your inventory. To use a key, walk 
+up to a door of the same colour as the key. Most keys will disappear from your 
+inventory.
+
+DOORS are opened by keys of the same colour. Once the coloured door is open it 
+stays open.
+
+MICROCHIPS enable you to pass each level's microchip socket. Most levels have a 
+required number of microchips you must collect before you can pass through the 
+microchip socket to the Exit Square.
+
+EXIT SQUARES are flashing squares found on every level. Step on an exit square to 
+proceed to the next level. Exit squares are usually blocked by microchip sockets.
+
+DIRT BLOCKS can be linked together to form bridges over water, pushed against a 
+bomb to explode it harmlessly, or used as blocks against monsters, deadly lightning 
+balls, and other moving obstacles.  You can only move one brown dirt block at a 
+time. If you place a dirt block to make a bridge over water, you must stamp down 
+the dirt to turn it into a regular floor square. To do this, step on the block 
+after pushing it into the water.
+
+NOTE: You may find things hidden under some dirt blocks. Sometimes the things you 
+find are valuable, like microchips. However you may find that a block is covering 
+something unpleasant, such as a fire trap.
+
+TRIP BUTTONS are linked to toggle blocks, clone machines, and other obstacles. A 
+trip button's colout matches the colour of the linked trap or obstacle. For example, 
+moving over a green trip button square will open (or close) all linked green toggle 
+blocks or moving over a red trip button square will cause a red linked clone 
+machine to begin releasing fireballs!
+
+MAGNETS neutralize [sic] the effect of force floor traps. With a magnet in the 
+inventory, you can walk over a force floor normally.
+
+FIRE SHIELDS neutralize fire. With a fire shield in the inventory, you can walk 
+through fire [But not fireballs].
+
+WATER SHIELDS allow you to walk on water.
+
+CLEATS allow you to travel over ice traps without slipping.
+
+NOTE: Magnets, fire shields, water shields and cleats stay in inventory. They do 
+not disappear after they are used.
+
+How to play :
+--------------------------------------------------------------------------------
+START        : Pause and play level
+A, B, L et R : Nothing ;-)
+SELECT       : Restart level
+
+--------------------------------------------------------------------------------
+Versions :
+--------------------------------------------------------------------------------
+V1.0 : 15/09/2007
+ * Codename Hacker initial release.
+
+--------------------------------------------------------------------------------
+Alekmaul
+alekmaul@portabledev.com
+http://www.portabledev.com
+--------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+BYTES
+by eKid
+for the PDRoms Coding Competition 2.5
+special thanx to all those #gbadev'rs for all their help, www.belogic.com
+for their sound tutorials,
+www.consolefever.com for sponsoring the compo, and Kojote, for hosting it.
+
+This game is very simple so I don't think I'll have to tell you how to play...
+But, if you wanna just play one empty level, hold Left, L, and R, when clicking
+"Start Game". (this will also disable highscore functions)
+
+Any questions or feedback can be emailed to mukunda51@hotmail.com, or you 
+can catch me on IRC, on EFNet-#gbadev, as eKid.

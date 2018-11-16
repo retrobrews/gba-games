@@ -1,0 +1,5 @@
+Crystal Clear Clone For Portable Devices
+BY TORLUS
+
+Match a minimum of 5, same colored crystals to clear them off the board. BROKEN crystals explode everything around them, when cleared. 
+When moved, HEART crystals change the color of nearby pieces. LOCKED Crystals cannot be moved. Good Luck!

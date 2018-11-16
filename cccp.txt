@@ -1,0 +1,10 @@
+CCCP [Games/Puzzle]
+
+Made by: Torlus
+Released: 2008-02-21
+
+I have released a new game, after more than 2 years of GBA coding inactivity.
+
+CCCP stands for Crystal Clear Clone for Portable (devices). It's a clone of the puzzle Flash game "Crystal Clear": http://www.gamesheep.com/game/crystal-clear/
+
+Hope you'll like it.

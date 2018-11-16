@@ -1,0 +1,86 @@
+=============================================
+== Classic Bust A Move for GBA
+==
+==     by: Russ Prince 12-20-2001
+==         russ@russprince.com
+==      http://www.russprince.com
+==
+=============================================
+
+Merry Christmas everyone.  After two months in the making, I present to you this full
+clone of the original Bust-A-Move (also known as Puzzle Bobble), made by Taito in 1994
+for the Neo-Geo arcade system.  I made the game extremely faithful to the original in
+every respect.  I have the original 30 arcade levels in single player mode, and I have
+also included Link play with two modes of game play.  The classic "Deathmatch" style of
+play, and a race mode which uses the single player boards where the first to clear the
+screen wins.
+
+
+Controls
+========
+
+Left/Right Arrow Keys  - Aim the pointer
+A button               - Fire the ball
+Left/Right Triggers    - Fine tune aiming
+Start Button           - Pause
+Select Button          - Toggle Music or Quit if game is paused
+
+
+Game Play
+========
+
+Single Player Game (Normal and Widescreen):
+  The Rules are very simple in single player mode.  Match three or more balls of the same
+  color to make them pop.  Any Balls left hanging, after others have popped, will drop off
+  the screen and out of play.  Once you clear all of the balls off the screen the level is
+  over.  If the balls fall below the bottom line then the game is over, but You get 2 continues
+  to try to finish all 30 levels.  And yes, that is Street Fighter 2 Turbo credits music
+  playing during the end game credits screen.  I couldn't find a midi of the original
+  Bust-A-Move credits music, so I used that instead.  Good music anyways  =P
+
+DeathMatch (Link Play Only):
+  The object of deathmatch is to stay alive while trying to "kill" the other player by sending
+  them more balls.  Popping any more than 3 balls, as well as dropping balls, will send balls
+  to the other player.  The more you pop/drop, the more balls you will send over.  In the center
+  is a ball queue which indicates how many balls you will receive after your next shot.  A red
+  marker indicates 6 balls, the yellow marker is 1.  The player whose balls drop below the line
+  first loses.
+
+Race Mode (Link Play Only):
+  Race mode plays all of the original levels but you race against the other player to clear the
+  screen first.  The first one to clear the level wins.  If a player's balls drops below the line
+  then the other player wins the round, and the next round will start.
+
+
+Requirements
+============
+
+As far as I know this game will run on all the current emulators, but it really shines
+on real hardware as it has link play.  Anyone with access to flash writers should give it
+a try as it's a blast to play head to head.  It was a lot of fun writing the link code as
+this was my first attempt at a linked game.
+
+Note: The game may appear very bright on the emulators.  Sorry about this, I may add a contrast
+control to the menu in the future.  I wrote this game specifically for the hardware and, as
+you probably know, the screen is incredibly dark, so I had to brighten up the graphics quite
+a bit to get it to look good and playable in normal light.
+
+
+Contact Info
+============
+
+Please send feedback, comments, hate mail, money, job offers, and suggestions to:
+russ@russprince.com
+or visit me at:
+http://www.russprince.com
+
+I hope you enjoy the game.  I had a lot of fun writing it.
+Russ Prince
+
+
+
+Legal Stuff
+===========
+
+This version is released as freeware and is not associated or endorsed by Taito in any way.
+The code was written solely by Russ Prince.
