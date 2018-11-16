@@ -1,0 +1,258 @@
+Battle Picross by Sean Reid
+===========================
+
+Picross is a puzzle game where you try to reveal a picture.  
+The puzzle lies in the process of revealing the picture.  To 
+reveal the picture, you are given hints as to blocks of 
+continuous pixels.  Each block of pixels is listed by row 
+and by column.  You are to use these numbers to help you 
+reveal the picture.  The number hints are like clues in a 
+crossword puzzle - hence the name Picross!
+
+Now, this game is different than similar types of picross 
+games.  There is a lower time limit in this game.  However, 
+you are allowed to use items that you collect to help reveal 
+the puzzle.  It is a more franctic game that causes you to 
+think just a little faster than with other puzzle games. 
+And so we have Battle Picross!
+
+
+Special Considerations
+======================
+
+This game features the freeware version of the Krawall Advance 
+sound engine.  It is a great sound engine for the GBA, and it 
+should be considered when sound needs to be added to your 
+project.  Also, the music from the game comes from freeware mods 
+on the net.  A special thanks goes out to these music authors!
+More information is available at http://mind.riot.org/krawall/
+
+This game was entered into the PDRoms Coding Competition in 
+November 2003.  Its coding competitions like these that help 
+generate interest and broaden the game development communities.
+The PDRoms website is located at http://www.pdroms.de/
+
+
+HOW DO I PLAY THIS GAME!?!?
+===========================
+
+I know that it might be a little hard to understand at first, 
+but once you know how to play the game, you will be hooked.  
+Head over to http://seanreid.ca/project/BattlePicross/ for a 
+short tutorial and strategies to use to win at Battle Picross.
+Also, read the enclosed tutorial.txt file.
+
+
+Controls
+========
+
+You mainly control the chizzel tool on the puzzle surface.  You 
+use the chizzel to to reveal the puzzle.  To chizzel a part of 
+the puzzle, position the tool accordingly, and then press the 
+A button.
+
+If you know that a certain tile is not part of the puzzle, it is 
+wise to mark it with an "X" so that you don't forget this fact.
+To do this, press the B button.  Marking "X"s on the puzzle is 
+not required to win the puzzle.  It is only there to help you 
+remember which tiles are not part of the picture.
+
+You can use items to help you reveal the picture.  To do this, 
+slide in your items window with the R button.  While holding the 
+R button, select the desired item with the cursor keys and press 
+the A button.  If you do not wish to use an item, just let go 
+of the R button instead.  You have to obtain items by completing 
+puzzles.
+
+
+Items
+=====
+
+L.Beam - Laser Beam
+-------------------
+Randomly positions a laser pod to reveal a lateral line of the 
+picture.
+
+H.Fire - Hot Fire
+-----------------
+Burns the puzzle away.  If you are lucky, the fire will start on 
+a part of the picture, and the fire will spread far!
+
+S.Gun - Shot Gun
+----------------
+Blasts the picture away with random spray.
+
+E.Time - Extend Time
+--------------------
+Adds one minute to your puzzle time.
+
+
+Multi-Boot Version
+==================
+
+I have provided a multi-boot version of the game (BattlePicross.mb).
+This version is intended to be used for link cables that allow 
+games to be uploaded to the GBA without a flash cart.  Due to the 
+fact that no cart is intended to be used with the multi-boot version, 
+the cleared puzzles and items will not be saved between sessions. To 
+save your game progress, please run the regular version on an 
+emulator or with a flash cart on the GBA hardware.
+
+
+
+Battle Picross Tutorial
+=======================
+
+To solve a puzzle, you need to reveal the hidden picture in the 
+playing board. You are given hints by the numbers in the rows and 
+columns to the top and left of the playing board. The numbers 
+represent blocks of consecutive squares.
+
+Since the playing board is a size of 20x12 squares, the biggest 
+possible block in a row is 20. Now, if there were two blocks of 
+squares in a row, its number would show "11 8". However, this adds 
+up to 19, not 20. This is because there must be at least one square 
+that is not part of the picture. Otherwise, there would be a single 
+block of 20 squares. So, when solving the puzzle, an X should be 
+placed instead of chizzeled. Note: there is only one possible way to 
+chizzel "11 8" in a row. With experience, you will find tricks which 
+can be used to solve the puzzle without guessing.
+
+Quick Walk-Through
+==================
+
+Here is a simple 5x5 puzzle spelling "Hi":
+
+#   #   #
+#   #  
+# # #   #
+#   #   #
+#   #   #
+
+The numbers for the puzzle would be as follows:
+
+       |          1
+       |  5 1 5 0 3
+-------------------
+1 1 1  |  #   #   #
+  1 1  |  #   #
+  3 1  |  # # #   #
+1 1 1  |  #   #   #
+1 1 1  |  #   #   #
+
+Let's observe the colums of the puzzle.  This means that you will 
+be concerned with looking at the numbers at the top of the screen.
+the first column lists 5.  This means that there is a continuous 
+block of 5 pixels in the puzzle.  You can see that this is the 
+first vertical line of the "H" letter.  Since we know that the 
+puzzle is a 5x5, there can only be one possible way that a block 
+of 5 pixels can lie: the exact 5.  So, when starting a new puzzle 
+look for these numbers.  Chizzel all the way down!
+
+Now, look at the fourth column.  It lists 0.  This means that there 
+are no pixels in that column.  You might as well mark the board 
+off with "X"s because there are no blocks of continuous pixels in 
+that column.  This is another cool tactic to use.
+
+If you started this puzzle from scratch, it may look like this 
+right now:
+
+       |          1
+       |  5 1 5 0 3
+-------------------
+1 1 1  |  #   # x   
+  1 1  |  #   # x
+  3 1  |  #   # x    
+1 1 1  |  #   # x   
+1 1 1  |  #   # x   
+
+Alright, the puzzle is beginning to take form.  Look at the second 
+row.  It lists 2 blocks of pixels, 1 each.  By chizzeling away at 
+the obvious columns, we have automatically revealed the 2 blocks 
+of 1 pixel groups.  Since you've revealed everything you needed on 
+that row, you can mark the rest of that row with "X"s.  The puzzle 
+should now look like this:
+
+       |          1
+       |  5 1 5 0 3
+-------------------
+1 1 1  |  #   # x   
+  1 1  |  # x # x x
+  3 1  |  #   # x    
+1 1 1  |  #   # x   
+1 1 1  |  #   # x   
+
+Look at column 5 now.  There is an "X" marked away since we know that 
+it isn't part of the picture.  Remember that this is a 5x5 puzzle, 
+so this leaves 4 possible pixels.  But, you may have noticed that the 
+remaining 4 pixels can fit 1 and 3 downward respectively.  Go ahead 
+chizzel these in:
+
+       |          1
+       |  5 1 5 0 3
+-------------------
+1 1 1  |  #   # x #  
+  1 1  |  # x # x x
+  3 1  |  #   # x #  
+1 1 1  |  #   # x # 
+1 1 1  |  #   # x # 
+
+There is one pixel left to chizzel (the crossbar in the letter "H").  
+By the same rule as the previous paragraph, there is one way to allocate 
+the block of 3 pixels.  Chizzel the pixel at 1 across, 3 down, and then 
+you are done:
+
+       |          1
+       |  5 1 5 0 3
+-------------------
+1 1 1  |  #   # x #  
+  1 1  |  # x # x x
+  3 1  |  # # # x #  
+1 1 1  |  #   # x # 
+1 1 1  |  #   # x # 
+
+Success, you win!  Notice that if you were playing Battle Picross, you 
+didn't have to mark the entire board with "X"s.  This is because marking 
+the board with "X"s is just to help you reveal the puzzle by eliminating 
+tiles by process.
+
+You may have also noticed another trick.  If you add up 1 + 3, it equals 
+4.  However, if there are to blocks of pixels, they are separated with 
+at least one non-picture pixel.  This makes 5.  So, the only way to reveal 
+a row/column labeled as "1 3" is by chizzeling in this order: 1, blank, 3.  
+Battle Picross uses 20x12 puzzles, so anthing that adds up to 20 horizontally 
+or 12 vertically enables you to use this trick.
+
+A more complex grouping could also be "3 5 2 3 3".  There must be at least 
+4 non-picture pixels in order to break apart these groups of pixels.  But, 
+add up all of the groups and blanks: 3 + 1 + 5 + 1 + 2 + 1 + 3 + 1 + 3 = 20!
+Therefore, there was only one way to chizzel this line!  Go ahead, do it:
+
+    ###x#####x##x###x###
+
+Final Tip: Shifting Pixel Blocks
+================================
+
+Let's say that you had a 20x12 puzzle with a row of 18.  There is a small 
+set of ways that 18 can be chizzeled.  In fact, here are the only three 
+possibilities:
+
+ 1) ##################xx
+ 2) x##################x
+ 3) xx##################
+
+What you may notice is that the center 16 pixels are always covered no 
+matter what way the block of 18 lies.  So, you might as well chizzel those 
+center 16!!  You don't have to mark the ends with "X"s, since you dont know
+if the pixels appear on either end.  However, it may become revealed to 
+you later on!
+
+This shifting pixel block principle works with any size of pixel blocks 
+of at least half the row size plus 1.  So, a row listing "16" would allow 
+you to chizzel the center 12 pixels without risk, leaving 4 tiles on either 
+end.
+
+There are more tricks to puzzle solving, but can you find them out on your 
+own?  Play and you might find more!
+
+Good Luck!

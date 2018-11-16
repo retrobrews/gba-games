@@ -1,0 +1,50 @@
+Informations
+------------
+
+Balle
+
+Version: final 1.00
+Author: Florian Brönnimann
+Year: 2004
+Genre: Block ball
+Description (english): A small original blockball game.
+Description (français): Un petit casse briques original.
+Save system: SRAM 64 kbits
+
+
+Quick help
+----------
+
+Keys:
+Start: Pause menu, A to select, Start again to cancel.
+Select: Pause. L+R+Start to unlock.
+A: Launch ball, select a menu option. If you press A while the ball is on the racket, the ball will be launched quicker. You will gain more points, and you can also break bricks wich are locked otherwise.
+B: Use the power (green bar full at top of the screen). Also used to cancel menu selection.
+L/R: Change render (1 to 3, 2 by default)
+L+R+A+B: Sets RAM to 1 waitstate (a bit faster, maybe unstable). You can use it with interpolated render (3) because the screen is in RAM. To confirm this operation, the screen will come green until you release all those keys.
+Blue blocks (world 2): You can only break them with a special power.
+Green blocks (world 5): The ball must go fast to break them.
+
+At savegame selection screen:
+L+R: Return to language selection screen.
+Select: Erase selected file (select an option and press A to confirm).
+
+
+Petite aide
+-----------
+
+Les touches:
+Start: Menu, A pour choisir, Start pour annuler
+Select: Pause. L+R+Start pour débloquer.
+A: Lancer la balle/Valider dans un menu. Si vous appuyez sur A en même temps que la boule touche la raquette (enfin un peu avant), la boule sera renvoyée très fort et marquera plus de points. Ca n'est d'ailleurs pas la seule utilité.
+B: Utiliser le pouvoir (barre verte pleine en haut de l'écran)/Annuler dans un menu.
+L et R: Changer de rendu (1 à 3, 2 par défaut).
+L+R+A+B: Passe la RAM à 1 waitstate (plus rapide, peut-être instable). A utiliser avec le rendu interpolé car l'écran se trouve en RAM. L'écran viendra vert pour confirmer jusqu'à ce que vous ayez relâché toutes les touches.
+Blocs bleus: Seul un pouvoir magique peut les détruire.
+Blocs verts: Si vous envoyez la boule très fort contre ces briques, elles se casseront.
+
+Sur l'écran de sélection des sauvegardes:
+L+R: Retourne à l'écran de sélection des langues.
+Select: Efface la sauvegarde sélectionnée (choisissez une option et confirmez avec A).
+
+

@@ -1,0 +1,51 @@
+=============================================
+==  Yet Another Asteroids for GBA!!!
+==
+==     by: Russ Prince 7-27-2002
+==         russ@russprince.com
+==      http://www.russprince.com
+==
+=============================================
+
+This is part two of an old Asteroids Demo I made about 7 months ago.  Some of the changes I
+made are as follows:
+
+  - Shields system
+  - Scrolling Backgrounds
+  - Flying saucer enemies
+  - Authentic "Asteroids" sounds
+
+The principal is essentially the same.  A bunch of asteroids are floating around...  Shoot them.
+With the occasional flying saucer coming around to kill you.  I changed the movement system so that
+the ship is always in center screen.  When you thrust, everything around you moves instead.  The
+background scrolls in the direction of your movement to help you see how fast your moving.  I think
+way is actually better than the old way of flying around the screen.  With the screensize limitation
+of the GBA this way just seems to feel better.
+
+I've also added a shields system to the game.  There is a counter in the bottom left corner of the
+screen to show how much shields you have left.  The shields regenerate by destroying asteroids and
+flying saucers up to a max of 50.  Use the shields by either pressing Down on the d-pad or the upper
+right trigger button.
+
+
+Controls
+========
+D-Pad Left/Right                       - Rotate Ship
+A Button                               - Fire
+B Button                               - Thrust
+D-Pad Down or Right Trigger            - Shields
+Hold Left-Trigger + D-Pad Left/Right   - Fine tune aiming
+Start Button                           - Pause / Start New Game
+Select Button                          - Show Accuracy of shots/hits
+
+There are some secret codes but I leave it to you to find them for yourself.
+
+
+Requirements
+============
+This game should run on just about any emulator, and will also run on real hardware.
+
+
+Please send feedback and suggestions to
+russ@russprince.com
+

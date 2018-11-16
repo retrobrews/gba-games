@@ -1,0 +1,398 @@
+Blocktrap
+François PESSAUX - Nov 2004
+
+Version 1.0.
+
+Legal stuff
+
+    Blocktrap is a game developed for the Gameboy Advance™. It is aimed to distributed freely and at no cost. The author provides the software as it is and may not be responsible in any case in any direct or indirect damage due to the use of this software. The current software is not licensed by any institution. The author, although he distributes freely and at no cost his software, remains the owner  of this software. Nevertheless, he accepts that parts of the software may be freely reused or modified or that the software may be enhanced as long as the aim remains non-commercial.
+
+After all this blabla that nobody read, annoys everybody, but always written by everybody to be bullet-proof... let's go to the interesting part !
+Principle of the game
+
+    Blocktrap is a puzzle game. Again another variation of the fabulous Tetris in this meaning that it deals with ... blocks !
+
+    The playground is compound of four grids each containing 4 x 4 cells. The central grid is the one you will move in and act. The three others (on the left side, above and on the right side of the central grid) are the ones that will keep you pretty busy !
+
+    In these grids, blocks will randomly appear and stack, slightly filling the lines or the columns. Stacking is performed from outside toward inside, that is, coming closer to the player's central grid. For the left and right grids, stacking is done in lines. For the upper grid, it is done in columns.
+
+    At each new block adding, the grid and the line in which the block will appear are randomly chosen. In the same way, the colour and the kind of the inserted block are randomly defined.
+
+    The aim of the game is to prevent any line or column from reaching your central grid. In order to fight against this intrusion of blocks, you have the entire central grid in which you will move (cross button) and turn (keys L et R) you own bullet block in order to, when wished, launch it (button A) onto those of one line or column.
+
+    Usually, blocks have a colour. In order to clear a block of a particular colour in a line or a column, you just have to fire your bullet block onto it if it has the same colour. If it has another colour, then it will be also launched, but will come and stack onto those already present in this line or column.
+
+    Some of the blocks are colourless (so it is for some bonus and malus). In this case, they will be destroyed whatever the colour of the bullet hitting them.
+Normal blocks
+    All the blocks we will describe here exist in the 4 colours of the game (red, green, yellow and blue). To prevent this documentation from being too heavy, les displayed icons will only show their "red" version.
+
+Shape 	Description
+
+	Block without any particular attribute and appearing on the playground (in any grid but the central one). It is the most frequent kind of block and the one you will mostly have to destroy by shooting on them !
+       
+	Standard bullet block. This kind of block represents you bullet and hence will be displayed in the central grid. According to its orientation, one will find it heading toward the left, the top of the right.
+	This kind of block only serves at the end of the game to show you blocks present in the line or column that made you lose.
+
+
+    As described in the chapter "Special blocks", some blocks have special characteristics allowing to modify the game strategy.
+Detailed rules
+
+    Player's movements are restricted to the central grid area in which no block appear (but the player's bullet block). You can move from top to bottom and left to right with the cross button. You can also rotate your bullet block to the right with the R key or to the left with the L button. The A button is used to fire your block. The B button allows to invoke a special block previously stored in your  reserve (a detailed explanation will be given a bit later). The START button serves to invoke the menu to pause / save / surrender.
+
+    When you fire a normal block in a line or a column, then this block will destroy on its way all the blocks having the same colour. If the entire line or column gets empty, then you will be given a new block with a random colour. However, if the line or column is not emptied, that's because the launched block was stuck on a block having another colour. Blocks destructions will then stop at this block and it will become your new block colour.
+
+    If your shoot destroyed no block (that is, you launched a block with a colour different from the colour of the first reachable block in the line or the column), you will get a fine : the launched block came and stacks above in the line or the column and you will receive as a new block colour the one on which you got stuck.
+
+    In the grids to fight, sometimes appear special blocks. Some of them have a colour, some other don't. The ones having a colour will have to be destroyed by shooting a block of the same colour, the others can be destroyed whatever the colour of the launched block.
+
+    When such a block gets destroyed, according to its kind:
+
+    either its effect is immediately activated ,
+    or it is added to the reserve of available bonuses.
+
+    One must notice that special blocks denoting malus are always immediately activated (he, he !) unlike most of the bonuses that are transferred into the reserve.
+
+    This reserve is displayed in the upper right area of the screen. It can contains up to 99 bonus blocks of each kind. Le number of available bonuses of each category is displayed under its related icon. Some bonuses have a colour. In this case, the available number according to the colour is displayed vertically with digits of that colour.
+
+    How to activate one block from this reserve ? Simply pressing the B button. Control is then trensferred into the reserve area as shown by a little cursor shaped like a star. This cursor indicates the  type of bonus you will activate. You can move the cursor with the direction keypad. Once your choice is done, press the A button in order to activate the bonus. Conversely, if you do not whish anymore to summon a bonus, the B button will get you back into the game area without invocating any bonus.
+
+    When a bonus is activated:
+
+    either its effect is independent of the player's position (its effect is identical whatever the location where it would be fired) and in this case, this effect is immediately triggered,
+    or it needs to be really placed before being fired and in this case your bullet becomes shaped like the bonus and you are free to move it in the game area before shooting it to trigger its effect.
+
+    As long as you destroy blocks, you will increase the difficulty level. The delay between two insertions of blocks will slightly decrease from 3 seconds up to get steady and equal to 1.5 second between each block.
+Game modes
+
+
+
+    Before starting a game, you will be prompt for which style of game you want to play. Blocktrap proposes 2 game modes:
+
+    Normal: In this mode special blocks are available
+    No bonus: In this mode special blocks are disabled, both amongst inserted blocks and bullet blocks given to the player.
+
+Special blocks
+
+    Here is the list of the special blocks and their properties description. As previously stated, when blocks exist in the 4 colours of the game (red, green, blue and yellow), in order to get the doc lighter, icons will only show the "red" version. In the following table, the column "Coloured bullet" indicates if when the bloc appears in bullet position (i.e. in the central area and managed by the player) it has a particular colour that will be matched with a bloc to destroy in the other grids. The column "Coloured to destroy" indicates that this kind of block located in one of the 3 game grids has to be destroyed by a bullet of the same colour.
+Shape(s)
+	Name
+	Coloured bullet 	Coloured to destroy 	Activation 	Duration 	Effect
+
+	Random colour 	
+
+No
+	
+
+No
+	
+
+Immediate at destruction
+	
+
+Current block
+	This kind of block does not have any explicit colour until it is launched by the player. Once launched, its colour will be randomly chosen.
+
+
+	Line /column eliminator
+	
+
+No
+	
+
+Yes
+	
+
+On reserve summoning
+	
+
+Current block
+	This kind of block can be moved and rotated. It has the excellent property to remove all the blocks present in the line or column in which it is fired. By the way, it collects all the found bonus blocks  and send them in the player's reserve, but also triggers all the malus encountered.
+
+	Mixer 	
+
+Non applicable
+	
+
+No
+	
+
+Immediate at destruction
+	
+
+Current block
+	Mess up the colour of the blocks present on the playground, giving each of them a new randomly chosen colour.
+
+	Slower
+	
+
+Non applicable
+	
+
+Yes
+	
+
+Immediate at destruction
+	
+
+10 seconds
+	Slow down the speed at which new blocks are inserted in the grids.
+	
+
+Accelerator
+	
+
+Non applicable
+	
+
+Yes
+	
+
+Immediate at destruction
+	
+
+10 seconds
+	Increase the speed at which new blocks are inserted in the grids.
+
+	Emptier 	
+
+Non applicable
+	
+
+No
+	
+
+Immediate at destruction
+	
+
+1 block
+	Remove all the blocks that are on the board. However, it will not collect the bonus blocks nor activate the malus : all of them will be destroyed and lost.
+
+  
+	
+
+Swapper
+	Non applicable 	
+
+Yes
+	
+
+Immediate at destruction
+	
+
+1 block
+	Cause your current block to eact to your orders (movement and rotation) in the opposite way.
+
+	
+
+Random
+direction
+	Yes 	
+
+Yes
+	
+
+Immediate at destruction
+	
+
+1 block
+	This block has a colour, but no explicit direction until it is launched by the player. Once launched, its direction will be chosen randomly and it will come and stacks in the column or one of the two lines that are in front of where the block is in the central grid.
+	
+
+Driller
+	Yes 	
+
+Yes
+	
+
+On reserve summoning
+	
+
+Current block
+	A Driller block is a lighter version of the Eliminator. Instead of cleaning a complete line or column, it will go through all the blocks and only destroy those of its color. Remaining blocks will then be compacted, i.e. shifted toward the outer part of the grid (without changing their relative order) in order to fill empty spaces.
+	
+
+Color cleaner
+	Non applicable 	
+
+Yes
+	
+
+Immediate at destruction
+	
+
+Current block
+	This block has a color. Once launched, it will destroy all the blocks of this color on the board. Hence, it can be seen either as a kind of color-specialised Emptier block or a of multi-direction Driller block.
+	
+
+Painter
+	Yes 	
+
+Yes
+	
+
+On reserve summoning
+	
+
+Current block
+	Paint all the blocks in a line or a column with the color of the current bullet Painter.
+	
+
+Multidirection
+	Yes 	
+
+Yes
+	
+
+Immediate at destruction
+	
+
+1 block
+	Launch a normal block with the color of the Multidirection bullet in each of the 3 directions in front of the bullet's position when it gets fired.
+	
+
+Antidote
+	Non applicable 	
+
+Yes
+	
+
+On reserve summoning
+	
+
+Non applicable
+	Remove any currently active state alterations. Amongst others, removes insertion speed acceleration, but also insertion speed slow down!
+	
+
+Eraser
+	No 	
+
+Yes
+	
+
+On reserve summoning
+	
+
+Current block
+	Destroy the aimed block without activating it. Useful to get rid of annoying malus!
+	
+
+Blinker
+	
+
+Non applicable
+	
+
+No
+	
+
+Immediate at destruction
+	
+
+10 seconds
+	Make the screen randomly flashing, altering the visibility.
+	
+
+Furymove
+	
+
+Non applicable
+	
+
+No
+	
+
+Immediate at destruction
+	
+
+10 seconds
+	Randomly take the control of the bullet's movement. You still can move your bullet but intempestive movements will come and pollute your orders.
+	
+
+Furyspin
+	
+
+Non applicable
+	
+
+No
+	
+
+Immediate at destruction
+	
+
+10 seconds
+	Randomly take the control of the bullet's orientation. As for the Furymove block, you still can rotate the bullet.
+
+Scoring system
+    The score gained for each sequence of destruction takes into account the number of blocks you destroyed with your shoot. The more blocks you destroy in one shoot in a line or a column, the more points you will obtain. More accurately, when launching a block other than Emptier and eliminator blocks, points are computed as follows :
+
+    1st destroyed block:  (2 ^ 1) * 4 = 8 points.
+    2nd destroyed block : points provided by the destruction of the first block + (2 ^ 2) * 10 = 40 points.
+    3rd destroyed block : points provided by the destruction of the first 2 blocks + (2 ^ 3) * 410= 120 points.
+    4th destroyed block : points provided by the destruction of the first 3 blocks + (2 ^ 4) * 10 = 280 points.
+    5th destroyed block : points provided by the destruction of the first 3 blocks + (2 ^ 5) * 10 = 600 points.
+
+    The special block Emptier and Color cleaner have a slightly different scoring behaviour: they only give 5 times the number of destructed blocks. Hep yep, these blocks are pretty handy, but we won't let them "score" so much work so easily !!!
+
+    Finally, about blocks that do not destruct anything (Mixer, Slower), they do not provide any point. All this to say that its better to clean the ground "fairly", I mean with blocks without special effect !!! But it's harder...
+Highscores saving
+
+    The game automatically saves the 5 highest scores performed. If at the end of the game you beat one of the 5 old highscores, then you will be informed and your score will replace the lowest amongst the old ones.  The highscores table is displayed at the end of the game.
+
+Menu pause / save / surrender
+
+    During the game, it is possible at any moment to press the START button in order to pause the game and display a menu allowing to:
+
+    Resume the current paused game,
+    Save the current state of the game in order to continue it later,
+    Surrender and leave the current game.
+
+    When a game is saved, you still can continue it immediately. The state of the game will remain recorded and when you will turn the game on, you will be proposed to resume the saved game. If you accept, then this save will be automatically discarded and then will disapear. Hence, there exists only one available save and it is possible to continue it only once.
+
+    If, during a game, you save several times, then each old save is destroyed and replaced by the new one.
+Keys summary
+
+    A : Launch you bullet block.
+    B : Invoke reserve.
+    Cross of direction : Move your bullet block (up - down - right - left).
+    L : Rotate your bullet block to the left.
+    R : Rotate your bullet block to the right.
+    START : Call the menu to pause / save / surrender.
+
+Making off and thanks
+
+    Blocktrap has been completely written in C, with the genius DevKit Advance under Linux and under Microsoft Windows. Graphics have been designed thanks to the excellent Gimp. BMP images BMP conversion to the binary format suitable for the Gameboy has been performed with a small tool I homemade in Objective Caml. Sound samples conversion has been done with Wav2raw written by Sylvain Rochette. Tests and debug have been done both on physical console and under the fabulous VisualboyAdvance emulator. I really want to thank all the free software community thanks to whom this little simple game could be released. That's also for this reason that it is freely distribuable.
+
+    I also want to really thank my little wife who strongly tested Blocktrap and found a certain number of bugs, suggestions and improvements.
+
+    Sources of this game will be soon freely available. I hope they will provide ideas and answers to other people. Currently, I don't release them yet because I still want to perform changes on Blocktrap. But patience, it will come !
+ Contact
+
+For any information, suggestions, flames I can be reached by email at :
+francois_pessauxHATyahoo.fr
+
+address in which, of course, you will straight replace "HAT" by the character "@" (it's just to prevent automated mail addresses scanners from registering me one more time, I still receive enough spam !)
+
+History
+25 Sept 2004 : Version Alpha 0.5
+
+    First release.
+
+07 Oct 2004 : Version Alpha 0.6
+
+    Bug fix on color attribution error causing an assertion failure.
+    Addition of the number of blocks remaining to destroy before the next level.
+    Speed increasing with levels.
+    Speed temporisation handled by a timer rather than a dirty simple loop (better because because does not rely on the CPU speed).
+    New special block : "Color cleaner".
+    Smarter animations for game ending.
+    Color adjustments on blocks to be more visible.
+    Timer animation.
+    Two game modes.
+
+Nov 2004 : Version 1.0
+
+    New design of the gameplay.
+    Sound effects added.
+    New control architecture by interrupts
+

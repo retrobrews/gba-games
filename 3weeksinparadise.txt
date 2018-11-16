@@ -1,0 +1,103 @@
+*********************************************************************************************
+*                                                                                           * 
+* Game Title :           3 Weeks In Paradise                                                *
+* Based on :             Classic ZX Spectrum game from the 80's                             * 
+* Graphics ripped from : PC Based version of same game                                      *
+* Sound ripped from :    Some from PC version, some sampled from original spectrum version. *
+* All coding by :        Bootlegger                                                         *
+* Game testing by :      Bootlegger                                                         *
+*                                                                                           *
+*********************************************************************************************
+
+Keys:
+-----
+D-Pad: Moves wally left, right, up and down
+A Button : Jump
+B Button : Use Item(s)/Fire
+Left Shoulder Button : Pick up/Drop Inventory Item 1
+Right Shoulder Button : Pick up/Drop Inventory Item 2
+Start : Start game when on intro screen
+
+Idea behind game:
+-----------------
+This is a puzzle game.  It requires some strange thinking to complete some of the puzzles.
+The idea is to utilise the scattered objects in certain ways with other objects and/or with 
+scenery.  As you complete parts of the puzzle, other items may appear or you may complete part
+of the puzzle. You need to complete 100% of the puzzles to free your wife (wilma) and son (herbert)
+and escape the island.
+
+Project info:
+-------------
+This has always been one of my favourite games of the Wally series from the ZX Spectrum.
+Although I have ripped the graphics and sounds from the PC version I unfortunately have 
+not been unable to request the use of these graphics and sounds from the original producers
+as all the weblinks to the PC version are no longer valid - If any of the orignal producers
+of the PC conversion are reading this I would appreciate it if you would get in touch to allow
+me to officially use these items.
+
+FAQ's
+=====
+Whats all this stuff on the screen?:
+------------------------------------
+The top 2/3rds of the screen are dedicated to the game scenery and play area.  
+The bottom third is a panel that shows what 2 items you are carrying, the amount of lives
+you have left, the quantity of the puzzle complete, and the status of wilma and herbert.
+The quantity of puzzle complete is identified by a raft - the more you complete the more
+of the raft is shown.  Upon freeing both wilma and herbert, the raft should be 100% complete
+and then you must make your way to the escape point to get off the island.  The very bottom of the
+screen is reverved for helpful text which is displayed on some screens.
+
+Is there a cheat mode as the game seems too difficult?
+------------------------------------------------------
+Yes there is a cheat mode however you will have to either examine the sourcecode to work out how
+to activate it, or modify the code and recompile it - HINT - very similair to way the cheat mode was
+activated on the original spectrum version.
+After a lot of practice it is possible to complete it without cheating.
+
+What is the solution to the game?
+---------------------------------
+If I told you that it would spoil all the fun wouldn't it!
+If you are finding it difficult or are just stumped at how to achieve something simply do 
+a search on the web for 3 weeks in paradise solution - you should find many solutions.  
+This is what I did to ensure I wrote the puzzle correctly!
+
+Screens seems very dark, can this be adjusted?
+----------------------------------------------
+The screen is very dark and I have found using and GBA SP or an Original GBA with backlight kit
+fitted and playing at night in a darkened room is really the best way to play it.
+There is a gamma correction routine inside the code but this is simply experimental.
+Please feel free to play with the source code to re-instate the gamme effect.
+
+Is there any way to turn off the music or turn on ingame sounds?
+----------------------------------------------------------------
+The game was developed with the choice of either music or background sounds in mind, however
+due to the limitation of the dragon basic development sound system, this proved a little tricky
+to implement in a practical way so I decided to simply only have music.  You can not turn off the music.
+If you examine the code you will see that ingame sounds have been experimented with and can be 
+re-instated if you wish to hear the effects.  Dragon Basic had issues with using both background music
+and background sounds with the compiler version 1.2 of Dragon Basic with which this was developed.
+
+What was this written in?
+-------------------------
+The game was written in Dragon Basic - Visit http://www.simforth.com
+This project took some time to develop and was started when Dragon Basic was still in its infancy.
+It was developed using V1.2.  Dragon Basic is now upto V1.38 and is 1.4 is due for iminent release. 
+I did consider converting the source into V1.38 but the amount of work involved seemed to be the
+constraint, however many issues (specially with the sound) would have been resolved.
+
+Why is the ROM so big?
+----------------------
+I am sure if you are a coder you may laugh at the way this has been written.
+I decided to utilise the PC version of the graphics for ease of use, but all the screens from
+the PC version were individual 32bit images rather than sprites/graphics that were used to 
+compile the screens.  I utlised this method in developing this version.  Lots of space could have
+been saved by doing it through the tiles functions of the GBA but this would have required
+lots of graphical work and I am not a graphics artist - I used what I could get hold of to 
+achieve what I wanted - this is the result - be happy with it.  Feel free to re-design if you wish!!
+
+
+It doesn't do {fill in own issue} like the original used to - why not?
+----------------------------------------------------------------------
+It is difficult to get a game spot on perfect.  I utilised the graphics from the PC version which was
+based on the ZX Spectrum 48K version, not the 128K version - this means there are a few less screens that you may remember (33 as oppossed to ~38).  Some simple graphics have been missed such as the blinking eyes and the bird that sits around on some objects.  These are all little items and I felt it more important to get the big issues out of the way, and now i've just run out of time and enthusiam to do those little nigily items.
+

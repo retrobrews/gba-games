@@ -1,0 +1,42 @@
+BridgeRacer
+===========
+
+An LCD (game & watch stylie) game for the GBA in 2 colours
+Includes an oldskool intro also in 2 colours
+
+Written By The Bootlegger
+For the WWW.PDROMS.DE Compo 2.5
+Sponsored By www.consolefever.com
+Made over a weekend
+
+On the intro, press Start to continue
+
+To choose game type, press Select to toggle Game A or Game B
+When changing game type, the hiscore for that game will be displayed
+in the score area at the top right of the screen.
+
+Your lives are shown in the centre top of the screen.
+You start with four lives. 3 in reserve as shown at the top.
+
+Press Start to start the game.
+
+Game A
+------
+Use Dpad left/right or shoulder left/right to move your car at the base of the play area.  
+Avoid a head on collision against all cars.  Cars will stick to their lane 
+for the length of the play area.
+Every baddie move down the screen will earn you 1 point.
+If you are adjacent to a car when you pass it your will get a bonus of 5 points.
+The speed will gradually increase.
+
+Game B
+------
+Use Dpad left/right or shoulder left/right to move your car at the base of the play area.  
+Avoid a collision against all cars, either head on, or from the sides.  
+Cars will move to aim for you.
+Every baddie move down the screen will earn you 1 point.
+Every car you manage to get past will score you an additional 5 points. 
+The speed will gradually increase.
+
+Enjoy
+Bootlegger
