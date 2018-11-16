@@ -1,0 +1,92 @@
+Doomdark's Revenge
+by Mike Singleton
+Game Boy Advance version by Quirky
+
+http://www.geocities.com/quirky_2k1/
+email: quirky at zoom dot co dot uk
+
+For the original game plus maps, hints, info etc:
+visit www.worldofspectrum.org or www.icmark.com
+
+Version 1.1 November 2006
+=========================
+
+GBA Controls
+-------------
+The Speccy controls were  even odder for Doomdark  than the first game.  Rather
+than having  all the  locale and  character information  on one  screen, it was
+split across several. The focus was taken off the "Think" screen and placed  on
+the interaction  with the  other characters  in the  game world.  To this  end,
+"Choose"  (E) is  usually the  first screen  that gets  called up  in a  given
+situation.
+
+I've  stuck with  the same  basic set  up as  Lords, which  I think  was fairly
+playable with  the GBA's  d-pad and  6 buttons.  Below is  the list of controls,
+together with their 8-bit equivalents.
+
+Press Start after the loading screen to start the game. You begin as Luxor the
+Moonprince standing at the Gate of Varenorn.
+
+Movement and common controls
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Left, right - rotate on the spot. (equivalent to 1-8)
+Up          - move forwards.  (equivalent to Q)
+L, R        - select previous/next character. (N/A)
+A           - Choose    (equivalent to E)
+B           - Select    (equivalent to M)
+down        - Check Situation    (equivalent to R)
+Select      - Bring the Night.  (equivalent to D)
+            - Press A to bring a new dawn  (equivalent to F)
+Start       - Save, load, etc     (equivalent to J or S)
+
+
+Choose, Select, Save/Load & Info screens
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+· A+          - Choose highlighted option / select highlighted character 
+                (equivalent to 1,2,3,4, etc)
+· B           - Look  (equivalent to W) - also cancels on the Save/Load menu
+· up, down    - change highlighted option (N/A)
+· left,right* - cycle through Choose, Situation, Location, Battle Stats, 
+                Character and Select screens (equivalent to E,R,T,Y,U,M)
+· L, R*       - select previous/next character. (N/A)
+
+* - not available on the Save/Load menu.
++ - More information when "More ?" is displayed. (equivalent to A)
+
+Map screen
+~~~~~~~~~~~
+The map is created as you cross the Icemark. Initially only the Gate of Varenorn
+is marked on it, but each new area seen by Luxor and his allies will be 
+filled in. The tunnels too are mapped, but they too are only shown once they 
+have been explored.
+
+· up, down    - Move the cursor around the map. It starts off at the currently
+  left,right    selected character's location.
+· A           - Cycle through the characters at a location. Only those loyal to 
+                the Moonprince are shown.
+· B           - Exit the map screen
+
+Guidance Found
+~~~~~~~~~~~~~~~
+Guidance from  the Wise  can be  found at  any of  the towers  dotted across the
+Icemark. The last 5 pieces of guidance given are remembered by the game and  can
+be referred back  to as needed.  Be aware though  that any guidance  is accurate
+only at  the  time  it is  given, later  on people  will move and objects may be
+picked up from their current location.
+
+· A           - Cycle through the guidance received
+· B           - Return to the menu
+
+Credits
+--------
+Thanks to Chris Wild at http://www.icemark.com for detailed info 
+on the inner workings of the original game. 
+WinZ80 disassembler/debugger by Gerton Lunter.
+
+Subtle Differences
+-------------------
+The evil Mist has no strength draining effect when you are in a tunnel.
+Character preferred terrain type, which they move through/across effortlessly, 
+is correctly implemented.
+

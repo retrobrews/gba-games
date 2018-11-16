@@ -1,0 +1,86 @@
+Cyclone for GameBoy Advance is based on Cyclone 
+by Costa Panayi (c)1985 Vortex Software
+
+Gameboy Advance version by Quirky
+
+visit http://www.quirky.remakes.org
+email: quirky[at]zoom.co.uk
+
+Controls:
+---------
+ A - forwards
+ B - show map
+ L - change view
+ up & down - change altitude
+ left & right - rotate copter
+
+Gameplay:
+----------
+
+You are the pilot of a rescue helicopter in the aftermath of a 
+particularly nasty  tropical storm. Your mission (you've already 
+accepted it) is to  fly around the archipelago collecting all the 
+medical supplies found in the  little crates and then bring them 
+all back to Base. 
+
+Your helicopter is equipped with a state of the art winch. Ahem. 
+Whenever you fly over a crate, the  winch is lowered 
+automatically. When you hover low enough, the hook on the end 
+will get hold of the  box and your trusty winch man will reel in 
+the supplies.  
+
+Along the way, you can rescue people for bonus points too. Follow 
+a similar tactic to box  collection and you'll be racking up the 
+hi scores (which unlock the hidden options...). Be careful not to 
+get too  close to the landscape though, as your copter is 
+especially fragile and one bash  often results in catastrophe. 
+You only have 3 lives to begin with, though you earn 1 more 
+every time you complete the mission.
+
+Added to the problem is the cyclone itself - the whirling grey 
+blob (as seen on  the map) will hurl your copter out of the sky 
+should you get too close. Your  wind gauge warns you of the 
+approaching storm, so pay heed. 
+
+Further problems are caused by your allies in the rescue planes -
+they often fly  at such high speed that they don't have time to 
+avoid your slower copter. If you  are flying between islands, 
+make sure to keep out of their flight path. 
+
+Avoid running out of fuel too - you can refuel for free at any of 
+the landing pads  dotted about the islands. Don't spend too long 
+dawdling though, you only have a  limited time to collect the 
+crates and return to base. 
+
+A tip - you can land almost anywhere, providing it is flat 
+enough, not just on  the designated landing pads. Make use of 
+this ability when the cyclone gets too close...
+
+
+Thanks to these folk:
+-----------------------
+Devkit Advance:
+Jason Wilkins, Jeff Frohwein
+
+Tutorials & GBA definitions:
+Dovoto (@thepernproject)
+
+Graphics tools (gfx2gba):
+Markus 
+
+Sounds (BoyScout):
+Christer Andersson
+
+GBA emulators:
+Forgotten (VisualBoyAdvance)
+Gollum (Boycott Advance)
+Bottled Light (Mappy VM)
+
+Practical examples:
+staringmonkey
+
+Webspace:
+The Toker @ www.remakes.org
+
+Speccy games:
+www.worldofspectrum.org

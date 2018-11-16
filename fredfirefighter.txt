@@ -1,0 +1,30 @@
+                           - Fred Firefighter -
+                      ==============================
+                      Code:               Lord Graga
+                      GFX:                  DayDream
+                      Intro Music:         Mr. Death
+                      Beta Tester:       Green Giant
+                      ------------------------------
+                      For PDROMS 2.5,           2004
+                      ------------------------------
+                      Control the  fireman  with the
+                      arrow keys, and make sure that
+                      you  kill  the fire  before it
+                      takes  over!  Use the A key to
+                      spray  water  at  the  flames.
+                      For every 100th house you save
+                      you  get an  extra  life! (you
+                      can  see  your  lifes  in  the
+                      upper   right  corner  of  the
+                      screen.  Try and  see how  far
+                      you          can          get!
+                      ------------------------------
+                      E-Mail:    lordgraga@gmail.com
+                      ------------------------------
+                      I used Devkit ARM and Krawall.
+                      ==============================
+                      
+                      This  intro did  not  make  it
+                      into the game due to the rules
+                      and       time       pressure:
+           www.spriteattack.com/firefighter/firefighter_show.html

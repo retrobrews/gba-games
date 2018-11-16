@@ -1,0 +1,37 @@
+Hexavirus
+--------------------------------------------------------------------------------
+CODE         : alekmaul
+ADAPTED FROM : Hexavirus from Mollusk
+
+You can find its topic here :
+http://palib.info/forum/modules/newbb/viewtopic.php?topic_id=1774&viewmode=flat&order=ASC&type=&mode=0&start=0
+
+To join me, send a mail here : alekmaul@portabledev.com
+
+Hexavirus Updates and GBA & NDS Stuff/Game about developpment can be found 
+in PORTABLEDEV CODING ZONE: http://www.portabledev.com/
+
+Instructions:  
+--------------------------------------------------------------------------------
+The bottom left virus is activated. Every virus of the same color it touches becomes 
+activated too. You can change the activated color by use the left and right keys.
+Activate all viruses in less than the desired moves, and you win !
+
+How to play :
+--------------------------------------------------------------------------------
+START        : play game
+A            : send the virus with the actual color
+LEFT & RIGHT : Change the virus color
+SELECT       : Hide the virus to see the colors behind it (keep the key pressed)
+
+History :
+--------------------------------------------------------------------------------
+V1.0  : 11/09/2007
+ Initial release
+
+--------------------------------------------------------------------------------
+Alekmaul
+alekmaul@portabledev.com
+http://www.portabledev.com
+--------------------------------------------------------------------------------
+

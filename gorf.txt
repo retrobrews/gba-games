@@ -1,0 +1,40 @@
+GORF for the GameBoy Advance, Release Candidate 03
+(the “Oh God, make it stop” edition)
+Presented by JessCREATIONS*, Co.
+in association with The Gameroom Blitz 
+Site: http://www.lakupo.com/grblitz  E-mail: thegameroomblitz[at]gmail[dot]com
+
+All right folks, it’s been fun, but this is officially the final, final release candidate for GORF.
+Fish gotta fly, birds gotta swim, and I’ve got to move on to new projects.  
+Namely, sitting around eating Funyuns in my underwear while watching old cartoons on DVD and doing barely any homework.
+There’s only one major change to this release… faster quark shots for the player.  Some guy named Goochman made the recommendation, lamenting that the Flagship was too hard to beat.
+I must reluctantly concede that yes, the quark laser was much faster in the arcade game and that it should have been that way from the start in this release.  
+I was worried about how this change would affect the gameplay, but judging from my playtesting it seems to be an improvement.
+The game feels a bit peppier than past releases, although if you’ve gotten used to the timing in the earlier versions, you’ll have to retrain yourself.
+Also, while taking a break from beating up Gary Coleman, Goochman informed me that the collision detection for the flagship’s nuclear core was much too unforgiving.
+I grudgingly added four more pixels of vulnerability, but that’s as much ground as I’m willing to give to those individuals who asked for an easy version of the game.
+Sorry, but GORF isn’t meant to be easy.  It’s a manly game for manly men, designed by a manly man who became a manly woman.
+The point I’m trying to make is that GORF gives ‘till it hurts, but demands just as much from the player.
+Besides, with the faster quark lasers, making this easier would be as sporting as shooting skeet with guided missiles.
+There will be no teddy bear modes and no hand-holding… and in this era of frantic bullet hell shooters, there shouldn’t be.
+So that’s it.  The last dance, the final countdown, the whipped cream and cherry on the sundae.
+I may include box artwork and an instruction booklet at a later date, but unless there’s a cataclysmic bug somewhere in the code that I missed, there will be no more work done on GORF.
+If you enjoy the game, you’re strongly encouraged to donate PayPal funds to mneko13@yahoo.com.
+
+GORF is a trademark of Midway, a division of Time-Warner.  Space Invaders is a trademark of Taito Corporation, a division of Square-Enix.
+Galaxian is a trademark of Namco-Bandai.  Dragon BASIC is a trademark of Jeff Massung.  All rights reserved.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EULA
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This software is free to use and distribute, so long as the game is not sold for profit or altered in any
+way.  The software is run through a patch utility to improve its performance with flash cartridges, so third 
+party modifications are no longer necessary.
+
+Note that this software is distributed without warranties, either explicit or implied.  You accept all
+responsibility for damages done to personal property as a result of using this software.
+
+GORF is a trademark of Midway, a division of Time-Warner, Nutting Associates, and Jamie Faye Fenton.  Space
+Invaders is a trademark of Taito Corporation, a division of Square-Enix.  Galaxian is a trademark of Namco-
+Bandai.  All code was written by JessCREATIONS*, Co., with some assistance by GBAdev.org and AtariAge.com.  All
+rights reserved.

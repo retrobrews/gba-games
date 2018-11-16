@@ -1,0 +1,174 @@
+Factory Bots
+===========
+
+By Nicholas Scheltema 2009
+e-mail: ndbscheltema (at) yahoo (dot) .com
+
+For PDROMS.DE coding competition #4.01
+http://www.pdroms.de
+
+The Game
+--------
+
+The purpose of the game is to control the movement of robots on a factory floor, and get them to take raw material from a Dispenser, put them in a Processor, then take the processed material and drop it into a Collector.
+
+This is accomplished by placing instructions on the factory floor grid, and when a robot passes over the instruction, it obeys it. Instructions including turning four different directions, and performing an action. The action that is performed is dependent on what is nearby, this will either be picking up a nearby object, dropping a carried object, or nothing; if nothing applies. It's also possible to introduce additional robots to a stage. 
+
+There are other obstacles that need to be overcome, such as reaching the different coloured buttons that control the various machines and barriers, and reaching conveyor belts that may be needed to transport objects across a stage.
+
+Each stage requires a sequence to be planned, and played out over and over again until at least 5 pieces of processed material are collected. Timing plays an especially important role in successfully getting the robots to perform the set sequence, so play often involves adjusting the location of instructions to alter it slightly.
+
+The number of instructions available are limited per stage. Solving each stage requires careful use of  the available instructions to perfectly plan a successful sequence.
+
+Main Menu
+---------
+
+Pushing START at the title screen takes you to the level select menu.
+The level select menu allows you to select a stage you want to play. The first 15 are open to play, the first 5 of which are tutorial levels to introduce the basic concepts of play. Stages 16-20 are locked, and you must complete the previous level to them to unlock them. When a level has been completed, it is marked with an asterisk (*). Use UP and DOWN to select and scroll to the available levels, and B to select.
+
+If you want to reset the stage completion statuses, hold L + R on the title screen.
+
+Pushing LEFT or RIGHT on the level select menu will scroll you left or right to take you to the options screen and level editor menu respectively. The options screen lets you disable or enable the music and sound effects. The level editor will be covered in a later section.
+
+Game Play
+---------
+
+-- Instruction Edit Mode --
+
+When you start a level, you will be in Instruction Edit mode; when you are in this mode you can add and remove instructions from the stage.
+
+To select an instruction, hold down the R shoulder button, which will make the Instruction Menu pop out. While still holding down the R button, use UP and DOWN to change the selection. The selection the cursor is over when you release the R button is the selected instruction.
+
+Note the numbers next to each instruction, these indicate the number of instructions you have left of that type to place in the stage. When it is 0, you can't place any more of those.
+
+You move the cursor on the factory grid by pushing UP, DOWN, LEFT and RIGHT. The cursor snaps to grid in Instruction Edit mode.
+
+To place an instruction down on the floor, push the B button. You can only place instructions on empty floor squares.
+
+To pick up a placed instruction, push the A button when over it. You don't have to have the same instruction selected to pick it up.
+
+When placing robots down using the B button, you will notice that they always face down. Keep pressing B, and you will rotate them through the four directions they can face. This does not use up additional robot placement instructions.
+
+The SELECT button, only in Instruction Edit Mode, brings up a menu with options to quit the level, or to adjust the sound options.
+
+
+-- Run Mode ---
+
+
+Once you have placed all the instructions you want, you can start the Run Mode sequence by pressing the START button. Once you have done this, you can freely pan around the stage using UP, DOWN, LEFT and RIGHT. At any time during the Run Mode you can stop by pressing the START button again, this will return you back to Instruction Edit Mode, and everything will be returned to their starting locations. 
+
+When in Run Mode, robots can fall off the floor and be destroyed, they will return also.
+
+Note also, that robots will pick up and drop objects in clockwise priority; for example, if there is an object above above and to the right of a robot when it moves over an action instruction, it will pick up the object above it. The same if it is carrying an object, and can place it either above it or to the left, it will place it above it.
+A robot can only pick and place objects to or from machines. It cannot put more than one object on a machine and cannot place unprocessed material into the Collector. If a robot cannot obey and action instruction, it will ignore it.
+
+In stages, there are different buttons that you will encounter. 
+The blue button, when passed over, will cause the Dispenser (gray hexagonal tube with arrows pointing up) to produce raw material.
+The red button, when passed over, will cause any raw material placed on the Processor at the time to be converted into processed material.
+The yellow button, when passed over, will cause all the warning barriers in the stage to change positions, they will either sink into the floor (and can be passed over) or rise up (and block the way).
+
+The basic objective is to get the robots to:
+
+	1 – Hit the blue button
+	2 – Pick up the newly produced raw material from the Dispenser
+	3 – Place it on the Processor
+	4 – Hit the red button, converting the raw material to processed material
+	5 – Pick up the new processed material off the Processor
+	6 – Place it in the Collector
+	7 - Repeat
+
+But in the stages there are obstacles to overcome, and you may have to use more than one robot to perform the objective.
+
+If you collect 5 pieces of processed material, the level is won, and you are returned to the level select menu.
+
+Control overview:
+
+	Instruction Edit Mode
+	UP/DOWN/LEFT/RIGHT – move cursor
+	R shoulder button – pull out instruction menu
+	B – place instructions
+	A – clear instructions
+	START – start Run Mode
+	SELECT – options menu
+
+	Run Mode
+	UP/DOWN/LEFT/RIGHT – pan around stage
+	START – stop Run Mode
+
+Instruction Type overview:
+
+	[!] - Action, pick up or drop a carried object off or on to a machine
+	[^] - Turn north, start heading north
+	[v] – Turn south, start heading south
+	[<] - Turn west, start heading west
+	[>] - Turn east, start heading east
+	[oo] – New robot placement (keep placing it to rotate it)
+
+Button overview:
+
+	Red – activate Processor
+	Blue – active Dispenser
+	Yellow – toggle barriers
+
+
+The Level Editor
+----------------
+
+The level editor allows you to create up to 3 of your own levels in the game.
+On the level editor menu, off to the right from the level select menu, there are three options.
+
+Edit will allow you to choose a field to edit, and then enter the level editor.
+Play will allow you to choose a field to play, like selecting a level in the level editor.
+Clear will allow you to choose a field to clear; note that it won't warn you, it'll just do it. Be careful!
+
+Below that are the 3 field slots you can create your own levels in. If the field has the word (clear) next to it, it means the level is empty, and has not been edited.
+
+Using the editor
+
+The controls in the editor are much the same as Instruction Edit Mode in normal play, only you can't place instructions, you can place stage blocks.
+
+Holding the R shoulder button brings up the Instruction Menu, but now you can use LEFT and RIGHT to adjust the number of available instructions for later play.
+
+Holding the L shoulder buttons brings up the Block Select menu. While holding the L button, use  UP, DOWN, LEFT and right to move the cursor to select a stage block. The block selected when you release L is the block you have selected.
+
+Use the B button to place the block you have selected on the map. You can only place 1 Dispenser and 1 Processor per stage.
+
+The A button clears a block off the stage, and if there is no block there, produces a hole. Pressing A on a hole restores the floor again (you've erased the hole).
+
+You can place robots into the stage, as well, by selecting the Bot icon in the Block Select menu (not the Instruction Menu, that's only for play). Placing bots in a stage is much the same as in Instruction Edit mode, you keep pressing B to rotate the bots starting position. Note also, that by placing bots in a stage, you limit the number of bot instructions you can have for that stage during place. Total bots in a level cannot exceed 9.
+
+Once you have editing your field sufficiently, press SELECT to bring up the level editor menu.
+Here you can simply save, or save and then quit back to the main menu.
+
+The third option is Save & Test. This option will take you straight away to play, in Instruction Edit mode, as usual. This way you can quickly debug your stages. Once you have done testing the stage, press SELECT and choose Return from the menu to return to the level editor.
+
+Control overview:
+
+	UP/DOWN/LEFT/RIGHT – move cursor
+	L shoulder button – pull out block select menu
+	R shoulder button – pull out instruction edit menu
+	B – place block
+	A – clear block/floor
+	SELECT – options menu
+
+
+Programming Notes
+-----------------
+
+I started this project late in the competition time line, so I was pressed for time to finish it. There are still bugs crawling around in there, I just know it; but the game worked fine during testing.
+
+Also, due to time constraints, I was unable to produce the soundtrack I was planning (for whatever it's worth :) so I used and old tune I tracked years ago I had lying around. Sadly, the samples didn't translate well over to the GBA, and I didn't have a lot of time to play with it to get it to sound better. When the music starts to annoy (not long, I'd wager), turn it off in the game options ;)
+
+Gameboy Advance / Emulation notes
+---------------------------------
+
+This game was untested on the real hardware, but it worked 100% on VisualBoyAdvance.
+
+If you are going to try it on the real thing, you will need to GBAFIX the rom header information.
+
+Extra Credits
+-------------
+
+Uses Krawall Sound System by Sebastian Kienzl
+http://mind.riot.org/krawall/
+
