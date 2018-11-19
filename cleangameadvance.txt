@@ -1,0 +1,18 @@
+Cleangame Advance 0.2
+======================
+By SC <thestoop@gmail.com>
+http://www.ryuker.org
+
+How to play:
+Throw items into their matching bins and avoid being squashed by anvils.
+
+Controls:
+Dpad - move
+A - throw item
+
+Credits and thanks:
+Bird sample: Nightingale song 2.wav (http://freesound.iua.upf.edu/samplesViewSingle.php?id=14909)
+Cleangame uses the Pimpmobile library for music playback (http://pimpmobile.kjip.no/)
+The Cleangame logo font is 04B-19 (http://www.dsg4.com/04/extra/bitmap/)
+The developers of Global Gladiators, particularly its bonus game (which Cleangame attempts to recreate)
+devkitPro (devkitpro.org)
