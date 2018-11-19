@@ -23,6 +23,7 @@ Homebrew Game Boy Advance games:
  - CHIP ADVANCE<br />
  - CHOCOBO WORLD DELUXE<br />
  - CLAY SHOOTER<br />
+ - CLEANGAME ADVANCE v.0.2<br />
  - CODENAME HACKER<br />
  - COLLISION COURSE<br />
  - COSMIC SMASH CLONE<br />
