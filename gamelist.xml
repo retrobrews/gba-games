@@ -252,6 +252,18 @@
      <genre>CHOCOBO WORLD DELUXE</genre>
      <players>1</players>
    </game>
+<game>
+     <path>./cleangameadvance.gba</path>
+     <name>CLEANGAME ADVANCE</name>
+     <desc>Things are falling from the sky, and it&apos;s up to you to pick them up and bin them, all the while trying to avoid being squashed by anvils. The idea for Cleangame comes from the bonus game from Mick and Mack: Global Gladiators on the Sega Mega Drive.</desc>
+     <image>./cleangameadvance.png</image>
+     <rating>0</rating>
+     <releasedate>20071112T000000</releasedate>
+     <developer>S. Clarke</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>CLEANGAME ADVANCE v.0.2</genre>
+     <players>1</players>
+   </game>  
    <game>
      <path>./clayshooter.gba</path>
      <name>CLAY SHOOTER</name>
