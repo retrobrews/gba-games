@@ -34,7 +34,9 @@ Homebrew Game Boy Advance games:
  - ELEVATOR<br />
  - FACTORY BOTS<br />
  - FRED FIREFIGHTER<br />
+ - FROGGER<br />
  - FROGTRIS<br />
+ - GAPMAN<br />
  - GBA CARDS<br />
  - GBA TACTICS<br />
  - GORF<br />
@@ -59,6 +61,7 @@ Homebrew Game Boy Advance games:
  - PAC RUN<br />
  - PAPER SCISSOR ROCKS<br />
  - PNAKYS<br />
+ - POCKET MEAT<br />
  - PUSH-IT<br />
  - S WORLD 3<br />
  - SANTA'S SWEATSHOP<br />
