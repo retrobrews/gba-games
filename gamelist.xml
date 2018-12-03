@@ -252,7 +252,7 @@
      <genre>CHOCOBO WORLD DELUXE</genre>
      <players>1</players>
    </game>
-<game>
+   <game>
      <path>./cleangameadvance.gba</path>
      <name>CLEANGAME ADVANCE</name>
      <desc>Things are falling from the sky, and it&apos;s up to you to pick them up and bin them, all the while trying to avoid being squashed by anvils. The idea for Cleangame comes from the bonus game from Mick and Mack: Global Gladiators on the Sega Mega Drive.</desc>
@@ -397,6 +397,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./frogger.gba</path>
+     <name>FROGGER</name>
+     <desc>Faithful remake of the arcade game Frogger. You get 10 points for each step; 50 for every frog arrived home safely; 1000 for saving frog into five homes; Plus bonus - 10 points for each remeining second.</desc>
+     <image>./frogger.png</image>
+     <rating>0</rating>
+     <releasedate>20170617T000000</releasedate>
+     <developer>Bootlegger</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>FROGGER v.2.0</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./frogtris.gba</path>
      <name>FROGTRIS</name>
      <desc>A Tetris like game...</desc>
@@ -406,6 +418,18 @@
      <developer>Shen Mansell</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>FROGTRIS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./gapman.gba</path>
+     <name>GAPMAN</name>
+     <desc>Faithful remake of Pacman.</desc>
+     <image>./gapman.png</image>
+     <rating>0</rating>
+     <releasedate>20170617T000000</releasedate>
+     <developer>Bootlegger</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>GAPMAN</genre>
      <players>1</players>
    </game>
    <game>
@@ -694,6 +718,18 @@
      <developer>Stian Hole</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>PAPER SCISSOR ROCKS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pocketmeat.gba</path>
+     <name>POCKET MEAT</name>
+     <desc>The gameplay in Pocket Meat is strong and concise. You push left or right and your red icon goes. Jump, move and generally lose time after time as you attempt the levels.</desc>
+     <image>./pocketmeat.png</image>
+     <rating>0</rating>
+     <releasedate>20160706T000000</releasedate>
+     <developer>Bomberdev</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>POCKET MEAT</genre>
      <players>1</players>
    </game>
    <game>
