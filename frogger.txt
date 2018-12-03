@@ -1,0 +1,10 @@
+Frogger - GBA Game (frogger_v2.gba)
+by Bootlegger
+2017/06/17
+
+Faithful remake of the arcade game Frogger.
+A couple of gfx glitches.  No further development will be done.
+
+
+
+https://bootlegger.itch.io/frogger
