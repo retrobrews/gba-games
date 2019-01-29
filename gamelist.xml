@@ -36,6 +36,18 @@
      <genre>AGB ROGUE</genre>
      <players>1</players>
    </game>
+    <game>
+     <path>./airball.gba</path>
+     <name>AIRBALL</name>
+     <desc>Conversion of Airball, an old commercial Amiga game.</desc>
+     <image>./airball.png</image>
+     <rating>0</rating>
+     <releasedate>20041206T000000</releasedate>
+     <developer>Foxy</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>AIRBALL</genre>
+     <players>1</players>
+   </game>
    <game>
      <path>./anguna.gba</path>
      <name>ANGUNA</name>
@@ -46,6 +58,18 @@
      <developer>Nathan Tolbert, Chris Hildenbrand</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>ANGUNA</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./anotherworld.gba</path>
+     <name>ANOTHER WORLD</name>
+     <desc>Conversion of Another World to the Gameboy Advance.</desc>
+     <image>./anotherworld.png</image>
+     <rating>0</rating>
+     <releasedate>20050428T000000</releasedate>
+     <developer>Foxy</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>ANOTHER WORLD</genre>
      <players>1</players>
    </game>
    <game>
@@ -349,6 +373,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./deflektor.gba</path>
+     <name>DEFLEKTOR</name>
+     <desc>Conversion of Deflektor (puzzle game) for the Gameboy Advance.</desc>
+     <image>./deflektor.png</image>
+     <rating>0</rating>
+     <releasedate>20030317T000000</releasedate>
+     <developer>Foxy</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>DEFLEKTOR</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./doomdarksrevenge.gba</path>
      <name>DOOMDARKS REVENGE</name>
      <desc>Doomdark&apos;s Revenge is a sequel to The Lords of Midnight.</desc>
@@ -370,6 +406,18 @@
      <developer>Shen Mansell</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>ELEVATOR</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./eliminator.gba</path>
+     <name>ELIMINATOR</name>
+     <desc>Fly in a futuristic dimension, avoiding obstacles and shooting enemies! A very typical arcade/style gameboy rom.</desc>
+     <image>./eliminator.png</image>
+     <rating>0</rating>
+     <releasedate>20070308T000000</releasedate>
+     <developer>Foxy</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>ELIMINATOR</genre>
      <players>1</players>
    </game>
    <game>
@@ -454,6 +502,18 @@
      <developer>Davgav</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>GBA TACTICS</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./goldrunner.gba</path>
+     <name>GOLDRUNNER</name>
+     <desc>Conversion of an old Amiga and Atari ST classic shooter called Goldrunner.</desc>
+     <image>./goldrunner.png</image>
+     <rating>0</rating>
+     <releasedate>20070316T000000</releasedate>
+     <developer>Foxy</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>GOLDRUNNER</genre>
      <players>1</players>
    </game>
    <game>
@@ -671,7 +731,19 @@
      <publisher>HOMEBREW ROM</publisher>
      <genre>MOSHPIT</genre>
      <players>1</players>
-   </game> 
+   </game>
+   <game>
+     <path>./nebulus.gba</path>
+     <name>NEBULUS</name>
+     <desc>Puzzle/action game, all originals 16 levels included.</desc>
+     <image>./nebulus.png</image>
+     <rating>0</rating>
+     <releasedate>20040429T000000</releasedate>
+     <developer>Foxy</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>NEBULUS</genre>
+     <players>1</players>
+   </game>
    <game>
      <path>./negativespace.gba</path>
      <name>NEGATIVE SPACE</name>
