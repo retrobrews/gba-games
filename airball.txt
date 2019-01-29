@@ -1,0 +1,20 @@
+Airball GBA
+-Unofficial conversion-
+
+Converted from Atari ST by Foxy (mail: Foxy@Foxysofts.com / web: http://www.foxysofts.com)
+Original game on Atari ST by Edward Scio, Pete Lyon, Paul Shields, Peter Scott.
+
+Description:
+Amazing puzzle/action game, all originals 280 rooms from Atari ST version and all 670 rooms from Amiga version included.
+
+GFX from Atari ST version
+Music "Airball remix" by David Lecerf
+Digit sounds using Krawall library (http://mind.riot.org/krawall/)
+
+Full working on real hardware.
+
+How to play:
+Pad to move.
+Button A : jump
+Button B : get/drop item
+Select to pause game.

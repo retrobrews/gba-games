@@ -1,0 +1,21 @@
+Nebulus GBA
+-Unofficial conversion-
+
+Converted from Atari ST by Foxy (mail: Foxy@Foxysofts.com / web: http://www.foxysofts.com)
+Original game on Atari ST by John M. Phillips.
+
+Description:
+Amazing puzzle/action game, all originals 16 levels included.
+
+GFX from Atari ST version
+SFX from Amiga version.
+Digit sounds using Krawall library (http://mind.riot.org/krawall/)
+
+Full working on real hardware.
+Graphical bug on BoycottAdvance.
+
+How to play:
+Pad to move.
+Button A without pad : fire
+Button A with pad : jump
+Select to pause game.

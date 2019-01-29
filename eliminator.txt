@@ -1,0 +1,15 @@
+Eliminator GBA
+by Foxy
+
+Converted from Atari ST by Foxy
+The conversion was first done on a PC for SDL model for mobile, our editors have not given away, I threw myself into his adaptation on the GBA.
+The graphics come from the Atari version but have been completely reworked by Cyb0rg in 256 colors (graphic designer assigned to the Magic Team).
+
+Description:
+At the command of a vessel, a track strewn with obstacles and enemies of all kinds will be your mission ... survive!
+It will take serious reflexes, and nerves of steel will be needed to complete the 14 levels of this game.
+
+
+Eliminator is a shoot’em up set on a patchwork-quilt coloured road, Eliminator puts you in control of a ship with a basic weapon, flying along at breakneck speed.
+There are barriers along the way to avoid, often set in quick succession, and lots of bad guys to shoot at or avoid – their shots must be avoided too. Some parts of the track are blocked unless you can shoot through obstacles before reaching them, or hit a jump pad.
+At some points you can change to travelling along the ceiling as well. Tokens can be collected en route, and used to obtain better weapons, but losing a life costs you the best one you’ve currently got.

@@ -1,0 +1,6 @@
+Deflektor GBA V1.1
+BY FOXY
+
+Conversion of Deflektor for the Gameboy Advance.
+Deflektor is a puzzle game. In this game, the player has to rotate mirrors to deflect a beam in order to destroy all the cells of each level. 
+There are also other devices the player has to be careful not to touch with the beam for too much time because otherwise the system will overload.

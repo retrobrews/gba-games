@@ -1,0 +1,16 @@
+Goldrunner GBA
+-Unofficial conversion-
+
+Converted from Atari ST by Foxy (mail: Foxy@Foxysofts.com / web: http://www.foxysofts.com)
+Original game on Atari ST by Steve Bak, Pete Lyon, Rob Hubbard.
+
+GFX from Atari ST version
+Digit sounds using Krawall library (http://mind.riot.org/krawall/)
+
+Full working on real hardware.
+
+How to play:
+Pad to move.
+Button A : fire
+Button B/L/R : Boost when available
+Select to pause game.
