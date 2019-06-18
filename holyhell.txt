@@ -1,0 +1,7 @@
+Holy Hell
+By Genecyst
+
+
+Holy Hell is a puzzle game with shmup elements. The goal of the game is to reach the end of every level trying to chain more blocks of the same color together.
+You guide a little ship powered with four different colored weapons. Every weapon can destroy only blocks of its same color, so you must switch between them to blow up everything...
+Brown blocks cannot be destroyed and must be dodged...

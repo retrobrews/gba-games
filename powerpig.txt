@@ -1,0 +1,32 @@
+POWERPIG GBA 
+by Genecyst Games 
+
+Hi, this is my new piece of work. Created in a couple of weeks for neoflash compo 2013 it features 4 AREA with 7 levels each.
+The game isn't hard to explain: you are a pig and you got to find the exit door for each level.
+Levels are full of animals that aren't properly happy to have you around and they'll try to kick your ass in any way.
+Fortunately the ghost of your granpa-pig has given you an amazing gravity gun that transform anything into light bubbles. 
+This gravity gun require coins to work, so it's quite expensive to have one, but at least someone has filled the levels with coins... 
+so you just need to grab them and charge your gun.
+
+CONTROLS:
+
+D-PAD: - move your character around the screen
+A - jump. HINT:You can jump in any moment, even if your falling. Keep in mind this thing when you think you're going to die.
+B - use your gravity gun. Hit enemies to transform them into bubbles. The big they are, more gun-charge they require.
+
+SCORING SYSTEM:
+Small enemies value is 10pts
+Medium enemies value is 20pts
+Big enemies value is 50pts
+
+This values got to be multiply by the number of objects you're carrying.
+For example,if you collect 5 enemies in this order: 2x10pts 1x50pts and 2x20pts, your score will be:
+
+1x10 + 2x10 + 3x50 + 4x20 + 5x20 = 360pts
+
+The more objects you carry, the higher your score rise.
+If you die all the bubbles get lost and so your score multiplier.
+
+
+
+http://holyhellgba.blogspot.com/p/downloads.html

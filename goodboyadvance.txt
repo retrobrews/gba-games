@@ -1,0 +1,14 @@
+GOODBOY ADVANCE
+by: exelotl (Jeremy Clarke)
+on: 2018-12-04
+
+A short exploration platformer for the Gameboy Advance, about a dog and his red rocket.
+A Ludum Dare 43 Jam game by @exelotl and @hot_pengu, for the theme:
+'Sacrifices Must Be Made'.
+
+This games gfx/music/sfx & programming, was fully developed in just 3 days!
+There is also a playable browser version of the game which you can find here --> https://hotpengu.itch.io/goodboyadvance
+Please give your support (https://hotpengu.itch.io/goodboyadvance) if you enjoy it!
+
+https://gbadev.org/demos.php?showinfo=1486
+@exelotl at twitter
