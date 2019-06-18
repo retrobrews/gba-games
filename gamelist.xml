@@ -13,6 +13,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./awerewolftale.gba</path>
+     <name>A WEREWOLF TALE</name>
+     <desc>A werewolf with special jumping abilities who needs to defeat the enemies in the castle to fight to the next level.</desc>
+     <image>./awerewolftale.png</image>
+     <rating>0</rating>
+     <releasedate>20120818T000000</releasedate>
+     <developer>Genecyst</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>A WEREWOLF TALE</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./agbhack.bin</path>
      <name>AGB HACK</name>
      <desc>Game is based on RevivedHack 1.1, an adaptation of Don G. Kneller&apos;s PC Hack 3.61.</desc>
@@ -517,6 +529,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./goodboyadvance.gba</path>
+     <name>GOODBOY ADVANCE</name>
+     <desc>A short exploration platformer for the Gameboy Advance, about a dog and his red rocket.</desc>
+     <image>./goodboyadvance.png</image>
+     <rating>0</rating>
+     <releasedate>20181204T000000</releasedate>
+     <developer>Exelotl</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>GOODBOY ADVANCE</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./gorf.gba</path>
      <name>GORF</name>
      <desc>Gorf for Gameboy Advance is a remake of Gorf made by Jess Ragan.Gorf&apos;s objective is simply to destroy all enemies. The player controls a spaceship that can move slowly left, right, up and down.</desc>
@@ -550,6 +574,18 @@
      <developer>Shen Mansell</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>HIEROGLYPHIC MAN</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./holyhell.gba</path>
+     <name>HOLY HELL</name>
+     <desc>Holy Hell is a puzzle game with shmup elements. The goal of the game is to reach the end of every level trying to chain more blocks of the same color together.</desc>
+     <image>./holyhell.png</image>
+     <rating>0</rating>
+     <releasedate>20101011T000000</releasedate>
+     <developer>Genecyst</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>HOLY HELL</genre>
      <players>1</players>
    </game>
    <game>
@@ -802,6 +838,18 @@
      <developer>Bomberdev</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>POCKET MEAT</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./powerpig.gba</path>
+     <name>POWER PIG</name>
+     <desc>A pig with a gravity gun that defeats the animals to reach the next stage!</desc>
+     <image>./powerpig.png</image>
+     <rating>0</rating>
+     <releasedate>20130820T000000</releasedate>
+     <developer>Genecyst</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>POWER PIG</genre>
      <players>1</players>
    </game>
    <game>
