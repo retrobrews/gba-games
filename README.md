@@ -2,6 +2,7 @@
 Homebrew Game Boy Advance games:
 
  - <b>3 WEEKS IN PARADISE</b> by Bootlegger
+ - <b>A WEREWOLF TALE</b> by Genecyst
  - <b>AIRBALL</b> by Foxy
  - <b>ANGUNA</b> by Nathan Tolbert, Chris Hildenbrand
  - <b>ANOTHER WORLD</b> by Foxy
@@ -41,9 +42,11 @@ Homebrew Game Boy Advance games:
  - <b>GBA CARDS</b> by Flavor
  - <b>GBA TACTICS</b> by Davgav
  - <b>GOLDRUNNER</b> by Foxy
+ - <b>GOODBOY ADVANCE</b> by Exelotl
  - <b>GORF</b> by Jess Ragan
  - <b>HEXAVIRUS</b> by Alelmaul, Mollusk
  - <b>HIEROGLYPHIC MAN</b> by Shen Mansell
+ - <b>HOLY HELL</b> by Genecyst
  - <b>IMPACT</b> by Gener Gabasa
  - <b>JETPACK 2</b> by Mukunda Johnson
  - <b>JUMPING BARNABE</b> by Alekmaul
@@ -65,6 +68,7 @@ Homebrew Game Boy Advance games:
  - <b>PAPER SCISSOR ROCKS</b> by Stian Hole
  - <b>PNAKYS</b> by Torlus
  - <b>POCKET MEAT</b> by BomberDev
+ - <b>POWER PIG</b> by Genecyst
  - <b>PUSH-IT</b> by Bootlegger
  - <b>S WORLD 3</b> by Shen Mansell
  - <b>SANTA'S SWEATSHOP</b> by Sumiguchi
@@ -82,6 +86,7 @@ Homebrew Game Boy Advance games:
  - <b>WAIMANU - GRINDING BLOCK ADVENTURE</b> by Sverx
  - <b>WONKIE GUY</b> by Sean Reid
  - <b>YAHTZEE [HERG]</b> by Herg
+
 
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
